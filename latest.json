@@ -1,6 +1,6 @@
 {
-  "version": "1.6.7",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.7/account_checker-v1.6.7.exe",
-  "notes": "账号检测 v1.6.7",
-  "sha256": "e6c505047ef1f3061062d912df237df7176249c602f9e335249ddc30aa9307c3"
+  "version": "1.6.8",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.8/account_checker-v1.6.8.exe",
+  "notes": "刷新优化: 选中一批后点刷新, 只重拉选中的窗口(按seq精确查), 不再整组全量重拉。大分组实测 2469窗口 115s->4.5s, 省96%。没选中时仍刷新整组; 绝不刷新全部分组。",
+  "sha256": "ba3c6818ebbdaf32f30b810be8707b08ca6717e5c874e64b8bec02570d9529f3"
 }
