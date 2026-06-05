@@ -1,6 +1,6 @@
 {
-  "version": "1.6.8",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.8/account_checker-v1.6.8.exe",
-  "notes": "刷新优化: 选中一批后点刷新, 只重拉选中的窗口(按seq精确查), 不再整组全量重拉。大分组实测 2469窗口 115s->4.5s, 省96%。没选中时仍刷新整组; 绝不刷新全部分组。",
-  "sha256": "ba3c6818ebbdaf32f30b810be8707b08ca6717e5c874e64b8bec02570d9529f3"
+  "version": "1.6.10",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.10/account_checker-v1.6.10.exe",
+  "notes": "切中文默认勾选(想快可取消=走语言无关判法); 人工检测活号显示「正常」不再「私信待验证」; 分组可输入搜索; 开始检测记下窗口序号(日志中心可找回); 自动升级加固(全程写日志 update/acl_swap.log, 失败保留新版+提示, 更耐文件锁)。",
+  "sha256": "bed88191c50f2ec2105268c5c10305a2483c78a8badd05567a4ff072b32715f5"
 }
