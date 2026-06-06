@@ -1,0 +1,6 @@
+{
+  "version": "1.6.11",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.11/account_checker-v1.6.11.exe",
+  "notes": "回写后自动刷新名字(免手动刷新); 工具失败态(BB未连/限频/网络失败)不回写、保留窗口原名前缀; 含上版: 分组可搜索/切中文默认勾/检测记窗口序号/自动升级加固。",
+  "sha256": "9d5f820aa7c7560c6389c73a40c3de4440aab6ff8719ac3db3c189b13297ed9f"
+}
