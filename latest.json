@@ -1,6 +1,6 @@
 {
-  "version": "1.6.13",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.13/account_checker-v1.6.13.exe",
-  "notes": "分组下拉默认筛「广告部(」直接出主力分组; 选中分组即自动加载窗口(免点加载窗口按钮)。",
-  "sha256": "9d6bfb092a539d9052ee2df686bc5af59dc3de31774a6a82308b259f05dc1f33"
+  "version": "1.6.14",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.14/account_checker-v1.6.14.exe",
+  "notes": "检测状态机定稿: 不勾检测私信时原X前缀保留(只刷字段不升T)、原非X活号→活跃T、封控→F、工具失败→保留原名; X→T 需勾检测私信。",
+  "sha256": "8069597ce71f021618b993e572b89e33766ea727329295491ce788355cddb09b"
 }
