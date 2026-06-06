@@ -1,6 +1,6 @@
 {
-  "version": "1.6.12",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.12/account_checker-v1.6.12.exe",
-  "notes": "自动升级不再弹黑窗口(彻底隐藏); 没勾检测私信时活号的T/X私信前缀不动(只更新F类问题, 勾了才改T/X); 锁定/停用补F前缀。",
-  "sha256": "ea74c7e04345940a82e7eb17dd5b66c731705cb3bb623deeeabfa68c4da6816b"
+  "version": "1.6.13",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.13/account_checker-v1.6.13.exe",
+  "notes": "分组下拉默认筛「广告部(」直接出主力分组; 选中分组即自动加载窗口(免点加载窗口按钮)。",
+  "sha256": "9d6bfb092a539d9052ee2df686bc5af59dc3de31774a6a82308b259f05dc1f33"
 }
