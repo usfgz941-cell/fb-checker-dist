@@ -1,6 +1,6 @@
 {
-  "version": "1.6.15",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.15/account_checker-v1.6.15.exe",
-  "notes": "①分组下拉=正常搜索框: 点进去清空可直接打字筛, 当前已选组高亮并滚到眼前, 不选点外面复位 ②开窗慢/正在打开中不再误判失败: 后台还在开就多等几轮轮询救回(更稳, 减少假BB未连/漏回写)",
-  "sha256": "57bd9086e43f3b1009a57aef6db85f4b2c01bc816e4ca4b9174dbf5d63c499a5"
+  "version": "1.6.16",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.16/account_checker-v1.6.16.exe",
+  "notes": "①恢复分组下拉默认填充「广告部(」(点进去就帮你筛广告部分组, 接着打字缩小范围) ②大分组加载提速: 并发翻页, 几千窗口的大组约 34s→17s(小组不变); 慢的根因是窗口多+BB分页限速, 默认组本就秒开",
+  "sha256": "2ddb2083c76219ec672969d615330f0cec238f5e705aac4dc62df43218b32a5d"
 }
