@@ -1,6 +1,6 @@
 {
-  "version": "1.6.14",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.14/account_checker-v1.6.14.exe",
-  "notes": "检测状态机定稿: 不勾检测私信时原X前缀保留(只刷字段不升T)、原非X活号→活跃T、封控→F、工具失败→保留原名; X→T 需勾检测私信。",
-  "sha256": "8069597ce71f021618b993e572b89e33766ea727329295491ce788355cddb09b"
+  "version": "1.6.15",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.15/account_checker-v1.6.15.exe",
+  "notes": "①分组下拉=正常搜索框: 点进去清空可直接打字筛, 当前已选组高亮并滚到眼前, 不选点外面复位 ②开窗慢/正在打开中不再误判失败: 后台还在开就多等几轮轮询救回(更稳, 减少假BB未连/漏回写)",
+  "sha256": "57bd9086e43f3b1009a57aef6db85f4b2c01bc816e4ca4b9174dbf5d63c499a5"
 }
