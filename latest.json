@@ -1,6 +1,6 @@
 {
-  "version": "1.6.19",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.19/account_checker-v1.6.19.exe",
-  "notes": "切中文加诊断标记: 每号日志新增『seq=X 切中文 ✓成功/✗失败 via 哪条路径, 最终lang=X, 耗时Ns』。导出日志能按号对账切语言成功率/走哪条路/慢例, 便于定位卡在哪。(纯日志, 不改切语言行为)",
-  "sha256": "352b00e935b2eed2f139f1df8e6c27118f4bb29ebd7ad029a1f78c7fb131abaa"
+  "version": "1.6.20",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.20/account_checker-v1.6.20.exe",
+  "notes": "切中文诊断再加强: SPA 路径失败原因从 DEBUG 提到 INFO —— 日志会显示卡在哪一步(头像菜单/设置与隐私/语言菜单/FB语言选项)。配合 1.6.19 的 per-seq 结果标记, 能精确定位切中文到底卡在哪。纯日志诊断, 不改切语言行为",
+  "sha256": "f9f83342e6668cea2e7704046e52138720bc3a2e106156fd36a775610f2dc2ea"
 }
