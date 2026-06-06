@@ -1,6 +1,6 @@
 {
-  "version": "1.6.17",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.17/account_checker-v1.6.17.exe",
-  "notes": "分组搜索框=纯搜索框: 启动和点击都默认填好「广告部(」直接能筛(不再自动塞整组名 广告部(Q1)); 你主动选某个组后才在框里显示该组名, 点别处也不会弹回 广告部(Q1)",
-  "sha256": "3ef89608f0be1e7f3c65f58b26f80486d3e56b6bd896e90152f37ac658bc1b80"
+  "version": "1.6.18",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.18/account_checker-v1.6.18.exe",
+  "notes": "①修严重bug: 大分组加载不完整(BB限频时漏页 — 家杰实际2901个却只加载到299/399, 漏了87%的号!)。现每页失败必重试到拿到+缺页兜底+校验总数, 实测2901/7660全部加载完整; 没加载全会明确告警并可点刷新补齐 ②大组分页显示(每页200, 2901~7660行不再卡顿; 选中跨页保留, 全选/检测仍作用于全部筛选结果)",
+  "sha256": "c59f42256f46cb44d220d7e7bbeef5695f0b97937370d1c482d9ec51cb578205"
 }
