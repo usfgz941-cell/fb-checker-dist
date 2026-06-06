@@ -1,6 +1,6 @@
 {
-  "version": "1.6.16",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.16/account_checker-v1.6.16.exe",
-  "notes": "①恢复分组下拉默认填充「广告部(」(点进去就帮你筛广告部分组, 接着打字缩小范围) ②大分组加载提速: 并发翻页, 几千窗口的大组约 34s→17s(小组不变); 慢的根因是窗口多+BB分页限速, 默认组本就秒开",
-  "sha256": "2ddb2083c76219ec672969d615330f0cec238f5e705aac4dc62df43218b32a5d"
+  "version": "1.6.17",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.17/account_checker-v1.6.17.exe",
+  "notes": "分组搜索框=纯搜索框: 启动和点击都默认填好「广告部(」直接能筛(不再自动塞整组名 广告部(Q1)); 你主动选某个组后才在框里显示该组名, 点别处也不会弹回 广告部(Q1)",
+  "sha256": "3ef89608f0be1e7f3c65f58b26f80486d3e56b6bd896e90152f37ac658bc1b80"
 }
