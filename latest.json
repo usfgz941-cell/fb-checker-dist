@@ -1,6 +1,6 @@
 {
-  "version": "1.6.36",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.36/account_checker-v1.6.36.exe",
-  "notes": "v1.6.36: 接续 1.6.35, 修『同意墙慢代理账号仍被误判 F』—— 代理慢的账号点完同意后, 下一屏(个性化广告确认)渲染慢时以前会半途放弃; 现在给慢账号更多『等页面出来再点』的次数, 这类账号也能走完同意流程回到正常 → 正确识别为活跃。配合 1.6.35 一起, 卡同意墙/Cookie墙/验证提示的账号基本都能自动恢复, 不再误判 F。",
-  "sha256": "d46b24f373567f53cdc289179b6c5560bd1e666130cf926eda36b7ddf3f2a3eb"
+  "version": "1.6.37",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.37/account_checker-v1.6.37.exe",
+  "notes": "v1.6.37: ①修『检查更新失败』—— raw.githubusercontent 在国内常连不上, 现加 jsDelivr 镜像兜底+重试(更新检查和下载都更稳)。②日志中心加『复制』按钮(一键复制全部日志发出, 不用手动选)。③可恢复账号(卡同意墙/软提示、还没自动清掉的)前缀改成『待』(待复检), 不再误显示成 F 封号。",
+  "sha256": "32ce891a56287e5955076806777ce9e225cf2668182740f84ca4b01940373ab8"
 }
