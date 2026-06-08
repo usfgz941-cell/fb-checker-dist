@@ -1,6 +1,6 @@
 {
-  "version": "1.6.21",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.21/account_checker-v1.6.21.exe",
-  "notes": "备注搜索: 「说明/备注」筛选框现在同时搜 检测说明 + BB备注(原来检测后只搜检测原因、搜不到BB备注了); 标签改名「说明/备注」好找; 加载过滤框补提示「名/备注/标签」(后端本就支持按备注加载大组)。纯前端筛选, 不改检测/数据",
-  "sha256": "fb0abd911bd31bfa8c942f451bba55b145b8e7e65be61fd1290ac888a34ea34f"
+  "version": "1.6.22",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.22/account_checker-v1.6.22.exe",
+  "notes": "日志诊断再完善(承上次审计找到的盲点): ①切中文逐步日志(点菜单/找简体等14处)INFO→DEBUG — 切语言时 runtime.log 不再被刷屏 ②新增 per-号「检测完成→state, 回写=X」行 — 干净日志里每个号一行结果, 诊断一眼看清成功率/状态。纯日志诊断, 不改检测行为",
+  "sha256": "4ea283e4f2a7ac2387a305043a7329a20e075396bcc5229ab56b958b19330db7"
 }
