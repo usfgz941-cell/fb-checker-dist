@@ -1,6 +1,6 @@
 {
-  "version": "1.6.23",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.23/account_checker-v1.6.23.exe",
-  "notes": "①新增「保留原有备注」勾选框(默认关·记住设置): 勾上=回写时不覆盖窗口原有备注(保留手工备注), 不勾=旧行为(写检测状态进备注) ②首次加载分组后不再自动全选(业务常需先筛几次再选; 用「全选」或筛选后选)。保留备注改的是共享回写逻辑, 不影响检测准确性",
-  "sha256": "e3b10b2c3d82c0654b8fe0e0e04669c1a1f81d57bda25f9c43ce69ec8f4d1659"
+  "version": "1.6.24",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.24/account_checker-v1.6.24.exe",
+  "notes": "保留原有备注改用 BB 官方局部更新接口(/browser/update/partial): 勾上保留备注时, 回写只改窗口名、不碰备注(BB 自动保留), 不再笨办法原样写回; 更干净更快、也不会误动其它字段。功能效果同 1.6.23(原备注完整保留), 实现更优。",
+  "sha256": "11639fc36d0e94e2973cb7fc010c3534ac447137560590b63ea59ad77477e75f"
 }
