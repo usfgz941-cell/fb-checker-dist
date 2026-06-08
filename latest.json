@@ -1,6 +1,6 @@
 {
-  "version": "1.6.25",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.25/account_checker-v1.6.25.exe",
-  "notes": "v1.6.25: 卡死窗口自动复位救回(开窗到底失败时 close→重开, 治打不开/不回写); 一键更新后文件名自动跟随版本号(下次更新起生效)。",
-  "sha256": "2b832d66356dbd61cc48076f427f243d619c64ce4e3ba1e151937148e4502198"
+  "version": "1.6.26",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.26/account_checker-v1.6.26.exe",
+  "notes": "v1.6.26: 新增「代理替换」tab —— 按窗口当前 IP 前缀(如 45.,109.)批量把代理换成你给的新 IP(socks5), 先预览待换清单再应用。含上版卡死窗口自动救回。",
+  "sha256": "813f85f86e2c7c1e61706e751d175f531a5b120a205d377b4e1c5598b939e470"
 }
