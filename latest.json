@@ -1,6 +1,6 @@
 {
-  "version": "1.6.29",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.29/account_checker-v1.6.29.exe",
-  "notes": "v1.6.29: 切中文【治本修好SPA路径】—— 修复菜单深层项(语言/账户语言)在折叠下方找不到的根因(自动滚入视野+点更稳的菜单项), 减少回退到耗网络的备用路。+ 代理替换三重把关(网络失败先重测排抖动→确认代理真死→换后重测)。",
-  "sha256": "daf0681a9f55acd02729178eb2d1171cd10a11df3404687276508fe2ac1366e4"
+  "version": "1.6.30",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.30/account_checker-v1.6.30.exe",
+  "notes": "v1.6.30: 切中文治本(真机调试) —— 切语言菜单改为每步点完确认下一级真出现、没出现就重点(根治偶尔点不中卡住), 基本不再退回耗网络的备用方式(真机6号实测全走快速路径)。+ 修复一键更新偶尔弹「Failed to load Python DLL」(更新后等杀毒扫完再启动)。",
+  "sha256": "090eb47d4b723fb3229b58e44e8002b05a10a2d7a28bd66ed5d56c25ede833d4"
 }
