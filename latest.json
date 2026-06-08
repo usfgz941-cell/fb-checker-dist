@@ -1,6 +1,6 @@
 {
-  "version": "1.6.24",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.24/account_checker-v1.6.24.exe",
-  "notes": "保留原有备注改用 BB 官方局部更新接口(/browser/update/partial): 勾上保留备注时, 回写只改窗口名、不碰备注(BB 自动保留), 不再笨办法原样写回; 更干净更快、也不会误动其它字段。功能效果同 1.6.23(原备注完整保留), 实现更优。",
-  "sha256": "11639fc36d0e94e2973cb7fc010c3534ac447137560590b63ea59ad77477e75f"
+  "version": "1.6.25",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.25/account_checker-v1.6.25.exe",
+  "notes": "v1.6.25: 卡死窗口自动复位救回(开窗到底失败时 close→重开, 治打不开/不回写); 一键更新后文件名自动跟随版本号(下次更新起生效)。",
+  "sha256": "2b832d66356dbd61cc48076f427f243d619c64ce4e3ba1e151937148e4502198"
 }
