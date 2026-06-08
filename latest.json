@@ -1,6 +1,6 @@
 {
-  "version": "1.6.31",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.31/account_checker-v1.6.31.exe",
-  "notes": "v1.6.31: 代理替换的分组选择改成可搜索(和账号检测一样输入即筛)。切中文再修一处: 选「中文(简体)」改为点完确认真生效、没生效就重点+用DOM直接点绕过弹窗遮挡(修个别号点了简中却没切成功)。",
-  "sha256": "ac91431d8e42133f1c15769eb037c8ccf2890b0df6ae21a4d19ac374eab8dc01"
+  "version": "1.6.32",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.32/account_checker-v1.6.32.exe",
+  "notes": "v1.6.32: 换了专属图标(青蓝放大镜+绿对勾, 任务栏好认)。切中文新增兜底: 自动关掉EU账号的cookie同意弹窗(之前挡住没法切)+ 罕见界面语言(波兰语等)也能用结构识别找到语言设置。",
+  "sha256": "0580813d36ea202a8961566f2269c2363e11761016efed57580f9e9381865aed"
 }
