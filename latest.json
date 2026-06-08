@@ -1,6 +1,6 @@
 {
-  "version": "1.6.33",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.33/account_checker-v1.6.33.exe",
-  "notes": "v1.6.33: 切中文修复 —— EU账号的cookie同意+付费/广告同意弹窗, 现在自动选『免费有广告版』走完整个同意流程过墙(复用项目现成的合规处理器, 绝不付费), 切完中文能正常回到首页。修1.6.32里这块的问题。",
-  "sha256": "b6ce348624daa830b6e850a06b66cb242d1bd741b2376bfec62e9c20e91f1b42"
+  "version": "1.6.34",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.34/account_checker-v1.6.34.exe",
+  "notes": "v1.6.34: 代理(IP坏自动换)检测更稳 —— 海外IP常瞬间抖动(一下通一下不通), 旧版单次探测会误判好IP为坏、甚至误换掉好IP; 现改成多次确认(连续都不通才算真坏) + 换新IP前先验证新IP本身是好的, 不会越换越差。纯检测/不开『IP坏自动换』的用法完全不受影响。",
+  "sha256": "7badac6daa1865585c683625097498b627819fbe311a0292d80a21560b86ac2e"
 }
