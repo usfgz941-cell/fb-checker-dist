@@ -1,6 +1,6 @@
 {
-  "version": "1.6.27",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.27/account_checker-v1.6.27.exe",
-  "notes": "v1.6.27: 代理替换融入检测 —— 检测中遇『网络/代理失败』的号, 用官方接口确认代理真坏了才换新IP(不误伤好代理)。默认半自动(跑完列出确认坏的号→一键换+重测), 设置里可开『IP坏自动换』。新IP池在『代理替换』tab填(两边共用)。",
-  "sha256": "85c1cf2b71d303f4f8b325f18d0f9b62d87ad67951f101578ad8ecf0f29cfa40"
+  "version": "1.6.29",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.29/account_checker-v1.6.29.exe",
+  "notes": "v1.6.29: 切中文【治本修好SPA路径】—— 修复菜单深层项(语言/账户语言)在折叠下方找不到的根因(自动滚入视野+点更稳的菜单项), 减少回退到耗网络的备用路。+ 代理替换三重把关(网络失败先重测排抖动→确认代理真死→换后重测)。",
+  "sha256": "daf0681a9f55acd02729178eb2d1171cd10a11df3404687276508fe2ac1366e4"
 }
