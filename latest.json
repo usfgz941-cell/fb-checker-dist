@@ -1,6 +1,6 @@
 {
-  "version": "1.6.26",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.26/account_checker-v1.6.26.exe",
-  "notes": "v1.6.26: 新增「代理替换」tab —— 按窗口当前 IP 前缀(如 45.,109.)批量把代理换成你给的新 IP(socks5), 先预览待换清单再应用。含上版卡死窗口自动救回。",
-  "sha256": "813f85f86e2c7c1e61706e751d175f531a5b120a205d377b4e1c5598b939e470"
+  "version": "1.6.27",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.27/account_checker-v1.6.27.exe",
+  "notes": "v1.6.27: 代理替换融入检测 —— 检测中遇『网络/代理失败』的号, 用官方接口确认代理真坏了才换新IP(不误伤好代理)。默认半自动(跑完列出确认坏的号→一键换+重测), 设置里可开『IP坏自动换』。新IP池在『代理替换』tab填(两边共用)。",
+  "sha256": "85c1cf2b71d303f4f8b325f18d0f9b62d87ad67951f101578ad8ecf0f29cfa40"
 }
