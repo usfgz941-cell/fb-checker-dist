@@ -1,6 +1,6 @@
 {
-  "version": "1.6.37",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.37/account_checker-v1.6.37.exe",
-  "notes": "v1.6.37: ①修『检查更新失败』—— raw.githubusercontent 在国内常连不上, 现加 jsDelivr 镜像兜底+重试(更新检查和下载都更稳)。②日志中心加『复制』按钮(一键复制全部日志发出, 不用手动选)。③可恢复账号(卡同意墙/软提示、还没自动清掉的)前缀改成『待』(待复检), 不再误显示成 F 封号。",
-  "sha256": "32ce891a56287e5955076806777ce9e225cf2668182740f84ca4b01940373ab8"
+  "version": "1.6.40",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.40/account_checker-v1.6.40.exe",
+  "notes": "v1.6.40: 1)新增「临时标记」: 勾一批号给它们打个临时标签(待换IP/供应商A…), 用来分类筛选, 只存本机不写BB、随时可清。 2)修『图片验证码号(要输入图片里文字那种)被误判成软提示』 → 现在正确标『验证码』。 3)seq 改 序号; 每页可选 200/500/1000; 拖表头可换列顺序; 窗口大小/筛选/排序/列等全记忆, 打开就是上次状态。 4)紧凑布局: 进度条挪到顶部、开始/停止挪到筛选栏末尾, 省一行空间。",
+  "sha256": "3a98381367ddcd1a497b52d5108794b1f3980dfd29699eec0f27990c39d2dfd4"
 }
