@@ -1,6 +1,6 @@
 {
-  "version": "1.6.41",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.41/account_checker-v1.6.41.exe",
-  "notes": "Phase77 验证码归F + 同意墙Cookie简体词(真机6/7过墙) + 滚动条顶/底SVG图标",
-  "sha256": "dbf4dab8296886c98202f7bdeee7c3b063945b21baf2e110992c884736a45f5b"
+  "version": "1.6.42",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.42/account_checker-v1.6.42.exe",
+  "notes": "修复切中文误判活号: 切中文移到检测判定之后, 活号即使切中文失败/超时也保住真实状态(active 等), 不再被误判成「BB未连」; 异常号不走切中文不再空耗。配合 1.6.41 验证码归 F, 误判大幅下降。",
+  "sha256": "705b91c98a12754baf3590cf27900dca8c738d565d54a7079fd9cd685a0b8139"
 }
