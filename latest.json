@@ -1,6 +1,6 @@
 {
-  "version": "1.6.45",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.45/account_checker-v1.6.45.exe",
-  "notes": "修复检测误判: ①一批'请验证你是真人'(人机验证)的号之前被误判成'停用', 现在正确识别为'验证码'(过了验证可能还能用, 不是没救的停用); FB 把停用和人机验证塞进同一个网址, 旧版靠网址猜错了。②cookie失效又没存密码、卡在选号页(显示人名+继续)的号之前标'需点继续', 现在归'登录过期'(要重新登录)更明确。配合上一版的多重确认(判活号查首页五项)+诊断档案(每号一条完整记录)。",
-  "sha256": "6c6d829713d73c65cc0bdeb344d2b860f0d420352edd048672535222787550a4"
+  "version": "1.6.46",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.46/account_checker-v1.6.46.exe",
+  "notes": "1.6.46 Phase81 切中文治本: DOM element.click() 替坐标click(根因=坐标click不触发FB React div-radio/按钮; 真机en→zh-Hans持久) + SPA头像菜单/navigate双路径全DOM化 + /settings checkpoint守卫(不污染); Phase80c 放宽门禁(活号切中文没成仍回写·未中文)",
+  "sha256": "5f3bf6d1664b5b8b3b05671e4c0640e0c572581f1f9146dfa0fd91bdee1978c1"
 }
