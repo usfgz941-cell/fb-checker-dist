@@ -1,6 +1,6 @@
 {
-  "version": "1.6.43",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.43/account_checker-v1.6.43.exe",
-  "notes": "修复图片验证码慢渲染被误判「软提示·待」: 验证码挑战页在慢代理下检测会抓到半张页(只有检查点框架+继续按钮、验证码图还没加载出来)误判软提示, 现改成等渲染显形判真实态(验证码/停用 F) + 软提示必须有明确确认按钮(这是我/知道了/确定, 非'继续')。真机 7434→停用/7805→验证码 不再误判, active 不误伤。",
-  "sha256": "4c3317ed1c630143ed46fe3b051ad296bc9dc11b11b38113d631bbd0aaf10970"
+  "version": "1.6.44",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.44/account_checker-v1.6.44.exe",
+  "notes": "修复'回登录页->填密码->又回首页'反复误判: ①填密码时浏览器闪一下不再误判「BB未连」, 老实标登录过期/密码失败 ②判活号后多重确认(首页五项查2遍隔4秒), 临时登进去又被踢回的假活号如实标登录过期、不再装活跃 ③勾了切中文没切成的活号不回写保留原名 ④BB未连重试加到3次。+每号一条完整诊断档案(导出诊断包可一眼看清每号经历)。",
+  "sha256": "8f7c6782848ad22ad3398373a1940d9e76a34676be52a1f4ed273ae08dede2f0"
 }
