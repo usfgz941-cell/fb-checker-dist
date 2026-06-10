@@ -1,6 +1,6 @@
 {
-  "version": "1.6.42",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.42/account_checker-v1.6.42.exe",
-  "notes": "修复切中文误判活号: 切中文移到检测判定之后, 活号即使切中文失败/超时也保住真实状态(active 等), 不再被误判成「BB未连」; 异常号不走切中文不再空耗。配合 1.6.41 验证码归 F, 误判大幅下降。",
-  "sha256": "705b91c98a12754baf3590cf27900dca8c738d565d54a7079fd9cd685a0b8139"
+  "version": "1.6.43",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.43/account_checker-v1.6.43.exe",
+  "notes": "修复图片验证码慢渲染被误判「软提示·待」: 验证码挑战页在慢代理下检测会抓到半张页(只有检查点框架+继续按钮、验证码图还没加载出来)误判软提示, 现改成等渲染显形判真实态(验证码/停用 F) + 软提示必须有明确确认按钮(这是我/知道了/确定, 非'继续')。真机 7434→停用/7805→验证码 不再误判, active 不误伤。",
+  "sha256": "4c3317ed1c630143ed46fe3b051ad296bc9dc11b11b38113d631bbd0aaf10970"
 }
