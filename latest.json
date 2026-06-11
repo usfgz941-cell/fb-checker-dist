@@ -1,6 +1,6 @@
 {
-  "version": "1.6.56",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.56/account_checker-v1.6.56.exe",
-  "notes": "1.6.56: 切中文成功后补跑首页五项确认，防 SPA 成功后延迟跳 login/checkpoint 仍回写活跃；30243 日志审计补漏。",
-  "sha256": "b06f5212168926559b05cac3a987d52ae1bd0c044f24ce543e2bfd7733f6471c"
+  "version": "1.6.57",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.57/account_checker-v1.6.57.exe",
+  "notes": "1.6.57: 修复切中文后首页确认 CDP 断开时未 fresh CDP 补确认的问题；8392 这类 post-switch ConnectionClosedError 不再直接跳过回写。",
+  "sha256": "da549faa5a7f084d1013950d8e95ba53a6502f55e1c42077f94403a8b353b694"
 }
