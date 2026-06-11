@@ -1,6 +1,6 @@
 {
-  "version": "1.6.57",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.57/account_checker-v1.6.57.exe",
-  "notes": "1.6.57: 修复切中文后首页确认 CDP 断开时未 fresh CDP 补确认的问题；8392 这类 post-switch ConnectionClosedError 不再直接跳过回写。",
-  "sha256": "da549faa5a7f084d1013950d8e95ba53a6502f55e1c42077f94403a8b353b694"
+  "version": "1.6.58",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.58/account_checker-v1.6.58.exe",
+  "notes": "v1.6.58: 打开窗口后确认 BB 运行态；success 但无 ws/http/pid 或 opened/ids 未命中不再显示已打开，并在日志列出未确认 seq。",
+  "sha256": "8207298a257ce8ad902e0a3351be1fb6be14f9d4ff4bc1839ddc7c0d2cb2109d"
 }
