@@ -1,6 +1,6 @@
 {
-  "version": "1.6.48",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.48/account_checker-v1.6.48.exe",
-  "notes": "1.6.48 切中文多方案SPA(用户拍板'全要'): SPA头像菜单三法(DOM .click/CDP坐标buttons:1/键盘focus+Enter)全试+重试当主路径(成则不碰/settings降checkpoint), 成不了交navigate /settings(reload重试)兜底。真机穷举确认FB现版头像菜单'设置与隐私→语言'对所有程序化点法时灵时不灵地拦(traps#37; git证实v1.6.6坐标点曾真机能用=FB后来改了菜单加反自动化, 非方法选错), 故SPA成功率低但有机会就走它; 大头靠navigate(实测170952 en→zh成功)。检测准确率不受影响。",
-  "sha256": "bbdd581a403b56fb2757a080c9f82f6e043ea1d6c9504c9efe0825c99998be78"
+  "version": "1.6.49",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.49/account_checker-v1.6.49.exe",
+  "notes": "1.6.49 SPA头像菜单切中文稳定化：前台激活、sim唯一搜索、兼容新版option，保留/settings兜底",
+  "sha256": "4e5648b438ffa0f2e8d8cc619280eefe9f192ee5233546c600e450df31dd18da"
 }
