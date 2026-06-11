@@ -1,6 +1,6 @@
 {
-  "version": "1.6.49",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.49/account_checker-v1.6.49.exe",
-  "notes": "1.6.49 SPA头像菜单切中文稳定化：前台激活、sim唯一搜索、兼容新版option，保留/settings兜底",
-  "sha256": "4e5648b438ffa0f2e8d8cc619280eefe9f192ee5233546c600e450df31dd18da"
+  "version": "1.6.50",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.50/account_checker-v1.6.50.exe",
+  "notes": "1.6.50 SPA final select keyboard-first; log copy fix",
+  "sha256": "d0092a294347abd1d956b6d2a739f9c07c911214acd8fa9908d549c9e0defea1"
 }
