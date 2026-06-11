@@ -1,6 +1,6 @@
 {
-  "version": "1.6.50",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.50/account_checker-v1.6.50.exe",
-  "notes": "1.6.50 SPA final select keyboard-first; log copy fix",
-  "sha256": "d0092a294347abd1d956b6d2a739f9c07c911214acd8fa9908d549c9e0defea1"
+  "version": "1.6.51",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.51/account_checker-v1.6.51.exe",
+  "notes": "1.6.51 home splash retry before L0; SPA final select remains keyboard-first",
+  "sha256": "c6574ff42dd0eff6eb2cbda38dee0a709caac4769e7ab991c419f761ce2bc013"
 }
