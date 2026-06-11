@@ -1,6 +1,6 @@
 {
-  "version": "1.6.47",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.47/account_checker-v1.6.47.exe",
-  "notes": "1.6.47 对的上治本: 切中文若把活号 navigate /settings 弹成 checkpoint/login, 回写前重探真态更新 state(修回写'活跃·未中文'对不上现实=账号其实已checkpoint) + SPA头像菜单快速bail(FB新版账户菜单role=listitem抗程序化展开, 改快速落/settings不空耗每号24s) + 顺带修 gh_net.ps1 GitHub匿名探测403限频误判不可达. 50号新批实测50/50回写对的上, 活号切中文21/22成zh-Hans.",
-  "sha256": "21935b815232cb37259f861071f05eafe6dbb44b4e2ec0647299e60b2c9c6c73"
+  "version": "1.6.48",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.48/account_checker-v1.6.48.exe",
+  "notes": "1.6.48 切中文多方案SPA(用户拍板'全要'): SPA头像菜单三法(DOM .click/CDP坐标buttons:1/键盘focus+Enter)全试+重试当主路径(成则不碰/settings降checkpoint), 成不了交navigate /settings(reload重试)兜底。真机穷举确认FB现版头像菜单'设置与隐私→语言'对所有程序化点法时灵时不灵地拦(traps#37; git证实v1.6.6坐标点曾真机能用=FB后来改了菜单加反自动化, 非方法选错), 故SPA成功率低但有机会就走它; 大头靠navigate(实测170952 en→zh成功)。检测准确率不受影响。",
+  "sha256": "bbdd581a403b56fb2757a080c9f82f6e043ea1d6c9504c9efe0825c99998be78"
 }
