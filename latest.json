@@ -1,6 +1,6 @@
 {
-  "version": "1.6.58",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.58/account_checker-v1.6.58.exe",
-  "notes": "v1.6.58: 打开窗口后确认 BB 运行态；success 但无 ws/http/pid 或 opened/ids 未命中不再显示已打开，并在日志列出未确认 seq。",
-  "sha256": "8207298a257ce8ad902e0a3351be1fb6be14f9d4ff4bc1839ddc7c0d2cb2109d"
+  "version": "1.6.59",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.59/account_checker-v1.6.59.exe",
+  "notes": "v1.6.59: 登录/账号选择继续按钮覆盖 English、日本語、Português、中文、Tiếng Việt、Español、Bahasa Indonesia；有密码重登时先尽力切登录页简中，再走多语言登录。",
+  "sha256": "b15b811b74bb9c29de4af11f223118570bd3b0cbeccecca1a2c87c530ae68006"
 }
