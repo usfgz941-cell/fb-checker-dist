@@ -1,6 +1,6 @@
 {
-  "version": "1.6.55",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.55/account_checker-v1.6.55.exe",
-  "notes": "v1.6.55: 本次状态标记未回写; SPA兼容繁体中文和高棉语并要求简体locale",
-  "sha256": "4c3e3026487e447fb9b2af2b60ddbf8183cbd6bd77bd73fc399abf3054b0dc41"
+  "version": "1.6.56",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.56/account_checker-v1.6.56.exe",
+  "notes": "1.6.56: 切中文成功后补跑首页五项确认，防 SPA 成功后延迟跳 login/checkpoint 仍回写活跃；30243 日志审计补漏。",
+  "sha256": "b06f5212168926559b05cac3a987d52ae1bd0c044f24ce543e2bfd7733f6471c"
 }
