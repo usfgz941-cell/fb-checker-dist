@@ -1,6 +1,6 @@
 {
-  "version": "1.6.53",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.53/account_checker-v1.6.53.exe",
-  "notes": "1.6.53 阿拉伯语RTL切中文: 补Arabic菜单文案匹配, SPA可打开语言picker",
-  "sha256": "99b0193a44a364fa291a3b04c7f586aae63c9a72b1ecb6a8dd341f385777389d"
+  "version": "1.6.54",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.54/account_checker-v1.6.54.exe",
+  "notes": "v1.6.54: 首页确认CDP断线后补确认; hacked-protection归checkpoint",
+  "sha256": "e44c3d671084246d2c94d7c1f78572c8bf940843882a7e9e0bc5b3a5524fa752"
 }
