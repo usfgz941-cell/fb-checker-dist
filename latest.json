@@ -1,6 +1,6 @@
 {
-  "version": "1.6.52",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.52/account_checker-v1.6.52.exe",
-  "notes": "1.6.52 首页确认三检: 修复首检半渲染导致活号切中文成功后回写跳过",
-  "sha256": "5fa8dba66d14fd17b202ae404e79a49a07e993d2b357590764465ac0e9f36341"
+  "version": "1.6.53",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.53/account_checker-v1.6.53.exe",
+  "notes": "1.6.53 阿拉伯语RTL切中文: 补Arabic菜单文案匹配, SPA可打开语言picker",
+  "sha256": "99b0193a44a364fa291a3b04c7f586aae63c9a72b1ecb6a8dd341f385777389d"
 }
