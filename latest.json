@@ -1,6 +1,6 @@
 {
-  "version": "1.6.51",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.51/account_checker-v1.6.51.exe",
-  "notes": "1.6.51 home splash retry before L0; SPA final select remains keyboard-first",
-  "sha256": "c6574ff42dd0eff6eb2cbda38dee0a709caac4769e7ab991c419f761ce2bc013"
+  "version": "1.6.52",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.52/account_checker-v1.6.52.exe",
+  "notes": "1.6.52 首页确认三检: 修复首检半渲染导致活号切中文成功后回写跳过",
+  "sha256": "5fa8dba66d14fd17b202ae404e79a49a07e993d2b357590764465ac0e9f36341"
 }
