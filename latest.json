@@ -1,6 +1,6 @@
 {
-  "version": "1.6.54",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.54/account_checker-v1.6.54.exe",
-  "notes": "v1.6.54: 首页确认CDP断线后补确认; hacked-protection归checkpoint",
-  "sha256": "e44c3d671084246d2c94d7c1f78572c8bf940843882a7e9e0bc5b3a5524fa752"
+  "version": "1.6.55",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.55/account_checker-v1.6.55.exe",
+  "notes": "v1.6.55: 本次状态标记未回写; SPA兼容繁体中文和高棉语并要求简体locale",
+  "sha256": "4c3e3026487e447fb9b2af2b60ddbf8183cbd6bd77bd73fc399abf3054b0dc41"
 }
