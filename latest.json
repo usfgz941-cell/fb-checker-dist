@@ -1,6 +1,6 @@
 {
-  "version": "1.6.71",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.71/account_checker-v1.6.71.exe",
-  "notes": "fix SPA language switch: structural avatar language path, role=option visible CDP click for Simplified Chinese, verified pt/vi/id/km/my/ar/zh-hant SPA and navigate",
-  "sha256": "5e3809030fa654a26900b4ee701fb3dcfa47f99bfb90fcd097ae045d5e4a279b"
+  "version": "1.6.72",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.72/account_checker-v1.6.72.exe",
+  "notes": "fix account picker Continue settle wait before force login; reduce false password_failed on slow Facebook login/account picker pages",
+  "sha256": "2ccf4b4e2ff02003af6070d9e98b6c54a5b61a4c40b3596e54779be0b44b92d7"
 }
