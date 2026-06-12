@@ -1,6 +1,6 @@
 {
-  "version": "1.6.74",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.74/account_checker-v1.6.74.exe",
-  "notes": "default-enable tab cleanup while preserving saved user preference",
-  "sha256": "0cd7b287a59b6e06d2842cffee85fec5cea91fdcfe3cc58fc9520d94ac6b57e0"
+  "version": "1.6.75",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.75/account_checker-v1.6.75.exe",
+  "notes": "fix account picker false active demotion: force login/password rescue when Continue lands on FB crypted intermediate page",
+  "sha256": "7fb0c350769d12992844cf61567d79137073ee7550d95643a10a178f2855beb8"
 }
