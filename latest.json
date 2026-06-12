@@ -1,6 +1,6 @@
 {
-  "version": "1.6.70",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.70/account_checker-v1.6.70.exe",
-  "notes": "v1.6.70: 优化葡语/Português 切中文链路；navigate 入口改为 span/div 上溯点击并补葡语确认按钮与 SPA 账户语言识别。",
-  "sha256": "5dc2ab9263c76a730867eed9ae20972431d72e2d209161b83b984b0c4c941e02"
+  "version": "1.6.71",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.71/account_checker-v1.6.71.exe",
+  "notes": "fix SPA language switch: structural avatar language path, role=option visible CDP click for Simplified Chinese, verified pt/vi/id/km/my/ar/zh-hant SPA and navigate",
+  "sha256": "5e3809030fa654a26900b4ee701fb3dcfa47f99bfb90fcd097ae045d5e4a279b"
 }
