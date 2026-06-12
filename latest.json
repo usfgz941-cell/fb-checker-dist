@@ -1,6 +1,6 @@
 {
-  "version": "1.6.63",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.63/account_checker-v1.6.63.exe",
-  "notes": "v1.6.63: 修正真人验证 checkpoint 分类为人机验证; 代理替换页新增 Rayobyte 配置、测试连接、拉取 export 代理池到新 IP 池; 不回显 Rayobyte API Key。",
-  "sha256": "f4a617c0baa8d1deded313715a29147904dbaf04ba1974dab11ca6607b8c4ca0"
+  "version": "1.6.64",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.64/account_checker-v1.6.64.exe",
+  "notes": "v1.6.64: Rayobyte 支持内部自动配置源；启动时自动读取本机 config/secret/env 并自动拉取代理池到新 IP 池，减少手工填写。",
+  "sha256": "25aa5ffa6600c6bc1e46ea1574c8fa8e31a5c208efb567c694dfe5a02d8a8182"
 }
