@@ -1,6 +1,6 @@
 {
-  "version": "1.6.62",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.62/account_checker-v1.6.62.exe",
-  "notes": "v1.6.62: default temporary mark column to last; add Rayobyte proxy API integration plan",
-  "sha256": "7d523b4751f60aafef0e70d41ed5522fbbc364159812e0f5655a15d52f8735d0"
+  "version": "1.6.63",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.63/account_checker-v1.6.63.exe",
+  "notes": "v1.6.63: 修正真人验证 checkpoint 分类为人机验证; 代理替换页新增 Rayobyte 配置、测试连接、拉取 export 代理池到新 IP 池; 不回显 Rayobyte API Key。",
+  "sha256": "f4a617c0baa8d1deded313715a29147904dbaf04ba1974dab11ca6607b8c4ca0"
 }
