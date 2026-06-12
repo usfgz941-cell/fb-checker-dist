@@ -1,6 +1,6 @@
 {
-  "version": "1.6.69",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.69/account_checker-v1.6.69.exe",
-  "notes": "v1.6.69: 本次状态列区分活跃但未切成中文的账号，显示活跃·非中文(语言码)。",
-  "sha256": "279fa04f27818fa97f5c8ac028cc67c76f31da6f563bcf7f01e7ca5b9f37638b"
+  "version": "1.6.70",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.70/account_checker-v1.6.70.exe",
+  "notes": "v1.6.70: 优化葡语/Português 切中文链路；navigate 入口改为 span/div 上溯点击并补葡语确认按钮与 SPA 账户语言识别。",
+  "sha256": "5dc2ab9263c76a730867eed9ae20972431d72e2d209161b83b984b0c4c941e02"
 }
