@@ -1,6 +1,6 @@
 {
-  "version": "1.6.67",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.67/account_checker-v1.6.67.exe",
-  "notes": "v1.6.67: 日志中心增加每批完成统计；回写统计补充策略跳过和原因汇总，避免大批任务结束后只能看到成功数。",
-  "sha256": "fedfd5d4854e42da11fd345f579db3b4bba3bb29ef284443eaa8958bb654de9d"
+  "version": "1.6.68",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.68/account_checker-v1.6.68.exe",
+  "notes": "v1.6.68: SPA retry hardening; proxy prefix guard; UTF-8 sanity gate",
+  "sha256": "0e2af698085ba2e1e07bea3ceb8576370343ff15b18d8cf62294a1884abbf290"
 }
