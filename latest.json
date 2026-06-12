@@ -1,6 +1,6 @@
 {
-  "version": "1.6.75",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.75/account_checker-v1.6.75.exe",
-  "notes": "fix account picker false active demotion: force login/password rescue when Continue lands on FB crypted intermediate page",
-  "sha256": "7fb0c350769d12992844cf61567d79137073ee7550d95643a10a178f2855beb8"
+  "version": "1.6.76",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.76/account_checker-v1.6.76.exe",
+  "notes": "add checker batch edit tab for BitBrowser group/name/remark with preview and confirmation",
+  "sha256": "3ff51df895d3f8b36ba044ad06281bc6481f2f15a17e74fafe4c657034ed959d"
 }
