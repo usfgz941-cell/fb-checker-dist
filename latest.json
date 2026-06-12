@@ -1,6 +1,6 @@
 {
-  "version": "1.6.65",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.65/account_checker-v1.6.65.exe",
-  "notes": "v1.6.65: Rayobyte 拉取增加重试和直连兜底，错误显示异常类型；统一账号检测备注模板和主系统写回前缀，补人机验证/软提示/隐私同意/待处理态规则。",
-  "sha256": "f645b61b2ea53e75a5e069df671ac4b83d2b0df1bb60d362de6f27c171e6ff37"
+  "version": "1.6.66",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.66/account_checker-v1.6.66.exe",
+  "notes": "v1.6.66: IP池编辑区增高并支持拖拽；检测完成后说明列在 ok 时显示 BB 备注，避免误判未回写。",
+  "sha256": "715ff694c50259eae2a514cebcfad73fbbe11cef93d1c0545567788bea7254bd"
 }
