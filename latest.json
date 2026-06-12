@@ -1,6 +1,6 @@
 {
-  "version": "1.6.59",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.59/account_checker-v1.6.59.exe",
-  "notes": "v1.6.59: 登录/账号选择继续按钮覆盖 English、日本語、Português、中文、Tiếng Việt、Español、Bahasa Indonesia；有密码重登时先尽力切登录页简中，再走多语言登录。",
-  "sha256": "b15b811b74bb9c29de4af11f223118570bd3b0cbeccecca1a2c87c530ae68006"
+  "version": "1.6.60",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.60/account_checker-v1.6.60.exe",
+  "notes": "fix account picker Continue flow; wait hydrated checkpoint after Continue; avoid soft checkpoint dismiss false bb_unreachable",
+  "sha256": "2e33a15cf8632d87aa50e7a966aede34aeb84ae666fc85f64cd1209f9e604f60"
 }
