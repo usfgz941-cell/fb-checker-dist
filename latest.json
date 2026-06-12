@@ -1,6 +1,6 @@
 {
-  "version": "1.6.72",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.72/account_checker-v1.6.72.exe",
-  "notes": "fix account picker Continue settle wait before force login; reduce false password_failed on slow Facebook login/account picker pages",
-  "sha256": "2ccf4b4e2ff02003af6070d9e98b6c54a5b61a4c40b3596e54779be0b44b92d7"
+  "version": "1.6.73",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.73/account_checker-v1.6.73.exe",
+  "notes": "add optional tab cleanup setting and hover tips for checker controls",
+  "sha256": "0e808c0de9d76e00478534b03776efb120abdc35839895416973a185be373c8f"
 }
