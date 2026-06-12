@@ -1,6 +1,6 @@
 {
-  "version": "1.6.61",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.61/account_checker-v1.6.61.exe",
-  "notes": "fix checker open-window keepalive: manually opened BB windows stay open during detection closeout; stabilize open after pending close",
-  "sha256": "64aee86a599eee27821ef5641a0edca3d37a2e313d1a6fd0ca2604ab5b6b3fe7"
+  "version": "1.6.62",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.62/account_checker-v1.6.62.exe",
+  "notes": "v1.6.62: default temporary mark column to last; add Rayobyte proxy API integration plan",
+  "sha256": "7d523b4751f60aafef0e70d41ed5522fbbc364159812e0f5655a15d52f8735d0"
 }
