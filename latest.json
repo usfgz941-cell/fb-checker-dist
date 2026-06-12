@@ -1,6 +1,6 @@
 {
-  "version": "1.6.76",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.76/account_checker-v1.6.76.exe",
-  "notes": "add checker batch edit tab for BitBrowser group/name/remark with preview and confirmation",
-  "sha256": "3ff51df895d3f8b36ba044ad06281bc6481f2f15a17e74fafe4c657034ed959d"
+  "version": "1.6.77",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.77/account_checker-v1.6.77.exe",
+  "notes": "add drag marquee selection for checker window table",
+  "sha256": "ba353b0c1a9fa388f01a924637f7de7fd401f252b6c55449683fbed25b33f1fa"
 }
