@@ -1,6 +1,6 @@
 {
-  "version": "1.6.78",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.78/account_checker-v1.6.78.exe",
-  "notes": "reuse searchable group picker in batch edit and show current group in move preview",
-  "sha256": "5e6e48d270d76a4d8f8a9dadac6bfb040788bc39d6437cc2a53cbef22eb949a1"
+  "version": "1.6.79",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.79/account_checker-v1.6.79.exe",
+  "notes": "default group search boxes to ad department prefix",
+  "sha256": "9703bb7be80ee082eaccd3af522743f3dd5e29b8b2b2c95eeea30bb10655239b"
 }
