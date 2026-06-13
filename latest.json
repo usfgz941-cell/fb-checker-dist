@@ -1,6 +1,6 @@
 {
-  "version": "1.6.80",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.80/account_checker-v1.6.80.exe",
-  "notes": "reload account picker not hydrated pages before final unknown",
-  "sha256": "53aebf746f476a449b46917dbbec84eb15593f38f590422fa7f086aea1f86b3f"
+  "version": "1.6.81",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.81/account_checker-v1.6.81.exe",
+  "notes": "batch post-run review list for unknown, bb unreachable, writeback skipped, active non-zh",
+  "sha256": "9578bd0cfb7f7a9eaf2574a059622fe9638e37ec5d8f9424ac135a95803c8bb9"
 }
