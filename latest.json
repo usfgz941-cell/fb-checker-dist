@@ -1,6 +1,6 @@
 {
-  "version": "1.6.81",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.81/account_checker-v1.6.81.exe",
-  "notes": "batch post-run review list for unknown, bb unreachable, writeback skipped, active non-zh",
-  "sha256": "9578bd0cfb7f7a9eaf2574a059622fe9638e37ec5d8f9424ac135a95803c8bb9"
+  "version": "1.6.82",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.82/account_checker-v1.6.82.exe",
+  "notes": "avoid false password_failed when account picker force-login never reaches password form",
+  "sha256": "8a7dd9ce9c8dec7205a9f05d7949308f42ce30aa0bf640710c6693e201850813"
 }
