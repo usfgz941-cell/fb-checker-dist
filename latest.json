@@ -1,6 +1,6 @@
 {
-  "version": "1.6.82",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.82/account_checker-v1.6.82.exe",
-  "notes": "avoid false password_failed when account picker force-login never reaches password form",
-  "sha256": "8a7dd9ce9c8dec7205a9f05d7949308f42ce30aa0bf640710c6693e201850813"
+  "version": "1.6.83",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.83/account_checker-v1.6.83.exe",
+  "notes": "fix account picker password relogin and checkpoint classification",
+  "sha256": "8469c76845bb5ef9961bdc834496e6bca18bf985555b6f30d6c9689b2dad2705"
 }
