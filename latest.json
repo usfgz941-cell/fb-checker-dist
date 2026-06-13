@@ -1,6 +1,6 @@
 {
   "version": "1.6.84",
   "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.84/account_checker-v1.6.84.exe",
-  "notes": "retry unhydrated checkpoint pages before fallback",
-  "sha256": "121cfbe46aa27ae787fc0a04d9ad52236054ffe40934780f2ea3bd402b99c7fc"
+  "notes": "v1.6.85: optimize SPA language switch for Traditional Chinese. Use sim search with DOM/CDP result-row priority, skip virtual DOM click on zh-Hant, include listitem side-panel matching.",
+  "sha256": "c97bf7879577c7433251370a2486f13d0a914489fa804d9205107da138efd25c"
 }
