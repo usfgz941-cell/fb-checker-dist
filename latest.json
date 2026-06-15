@@ -1,6 +1,6 @@
 {
-  "version": "1.6.91",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.91/account_checker-v1.6.91.exe",
-  "notes": "1.6.91 rescue uncertain account-picker login states by returning home and running the five-signal gate before marking cookie expired",
-  "sha256": "570096f20b949869dae8b56f35eb8e4838e5b9ee98301117005b074ec946e176"
+  "version": "1.6.92",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.92/account_checker-v1.6.92.exe",
+  "notes": "v1.6.92: share account-picker review markers across checker, runner, diagnostics, and tests",
+  "sha256": "252926cc5a92aa0519a9f8e786e511f1584e3438cf59590b55250b0ea0032072"
 }
