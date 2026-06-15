@@ -1,6 +1,6 @@
 {
-  "version": "1.6.85",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.85/account_checker-v1.6.85.exe",
-  "notes": "v1.6.85: SPA切中文 Facebook Language picker 增加焦点/弹层快照诊断；保留 Tab/Enter 快速主链路和 navigate 兜底。",
-  "sha256": "2af74c62d2f6e88e94ccbfa7e208cffd296f9128757ebf7c690ad55d16a61318"
+  "version": "1.6.86",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.86/account_checker-v1.6.86.exe",
+  "notes": "v1.6.86: 修复批量修改/代理替换预览过期保护；检测完成后顶部进度区保留本批统计。",
+  "sha256": "f8281f07a3a89862b9e8b4a27adfb629f172e12f99d1a3bc50deb4b3a0ea19b3"
 }
