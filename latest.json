@@ -1,6 +1,6 @@
 {
-  "version": "1.6.89",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.89/account_checker-v1.6.89.exe",
-  "notes": "1.6.89 fix hacked-protection false checkpoint: recheck home before marking security challenge",
-  "sha256": "abd48e62df4796173acecb4fa74abf8149a81fc5480f6398c40e4e9d19c2f4ea"
+  "version": "1.6.90",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.90/account_checker-v1.6.90.exe",
+  "notes": "1.6.90 flag and retry uncertain account-picker login states; skip unsafe writeback and improve diagnostic hints",
+  "sha256": "60b107d0bea460f67a9f9297f46df9755b64c5636fd1d73103bfeb5340237a87"
 }
