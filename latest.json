@@ -1,6 +1,6 @@
 {
-  "version": "1.6.87",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.87/account_checker-v1.6.87.exe",
-  "notes": "v1.6.87: 小语种自动化提示识别和关闭词增强；检测私信文案与日志明确当前是 Messenger 入口检测；新增 direct/profile 目标私信探针 PoC，尚未接入主检测器。",
-  "sha256": "798c7f886a110693879aafe903923be33bf217ced7d4b2a9ed5580e7e73a414c"
+  "version": "1.6.88",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.88/account_checker-v1.6.88.exe",
+  "notes": "1.6.88 direct target messenger probe: use target UID pool for stranger DM sendability, wait for delayed identity verification, avoid voice-send false positives",
+  "sha256": "dddf366362976c55ccd908c2ce1c95b6589227a4e2e303bef4779b8e2ff5fcae"
 }
