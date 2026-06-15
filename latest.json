@@ -1,6 +1,6 @@
 {
-  "version": "1.6.88",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.88/account_checker-v1.6.88.exe",
-  "notes": "1.6.88 direct target messenger probe: use target UID pool for stranger DM sendability, wait for delayed identity verification, avoid voice-send false positives",
-  "sha256": "dddf366362976c55ccd908c2ce1c95b6589227a4e2e303bef4779b8e2ff5fcae"
+  "version": "1.6.89",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.89/account_checker-v1.6.89.exe",
+  "notes": "1.6.89 fix hacked-protection false checkpoint: recheck home before marking security challenge",
+  "sha256": "abd48e62df4796173acecb4fa74abf8149a81fc5480f6398c40e4e9d19c2f4ea"
 }
