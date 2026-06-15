@@ -1,6 +1,6 @@
 {
-  "version": "1.6.86",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.86/account_checker-v1.6.86.exe",
-  "notes": "v1.6.86: 修复批量修改/代理替换预览过期保护；检测完成后顶部进度区保留本批统计。",
-  "sha256": "f8281f07a3a89862b9e8b4a27adfb629f172e12f99d1a3bc50deb4b3a0ea19b3"
+  "version": "1.6.87",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.87/account_checker-v1.6.87.exe",
+  "notes": "v1.6.87: 小语种自动化提示识别和关闭词增强；检测私信文案与日志明确当前是 Messenger 入口检测；新增 direct/profile 目标私信探针 PoC，尚未接入主检测器。",
+  "sha256": "798c7f886a110693879aafe903923be33bf217ced7d4b2a9ed5580e7e73a414c"
 }
