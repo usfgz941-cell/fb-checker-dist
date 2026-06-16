@@ -1,6 +1,6 @@
 {
-  "version": "1.6.97",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.97/account_checker-v1.6.97.exe",
-  "notes": "v1.6.97: speed up Messenger target checks; improve /messages/new recipient selection; ignore target restore/PIN blockers as account verification; shorten stuck BB open wait",
-  "sha256": "0c802ee24befe76a439f081fce65089a997f91a8305896cded8a0691ef87ad79"
+  "version": "1.6.98",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.98/account_checker-v1.6.98.exe",
+  "notes": "v1.6.98: 修复手动打开窗口 token-only 误报为已确认打开；open_windows 现在必须等待 BB opened/ids 最终确认，并记录每个序号的打开细节。",
+  "sha256": "40389b8a90c4a3729550d0c7f22d24c7052e3806858ceef63442dc4b0661ffd0"
 }
