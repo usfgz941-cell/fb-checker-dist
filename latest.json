@@ -1,6 +1,6 @@
 {
-  "version": "1.6.99",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.99/account_checker-v1.6.99.exe",
-  "notes": "v1.6.99: 手动打开窗口保护补全。open_windows 仍严格以 BB opened/ids 确认为准；list_open 轮询发现 BB 外部已打开窗口时自动加入保护池，避免检测收尾或自动换代理关闭用户正在看的窗口。",
-  "sha256": "ec13eb3ed823558f6f024a380cd7ad7c713cf9659a09f2fd7991ea8117b3421f"
+  "version": "1.6.100",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.100/account_checker-v1.6.100.exe",
+  "notes": "v1.6.100: 检测页当前状态持久化到 config.json。更新后自动恢复回写、切中文、检测私信、标签页清理、保留备注、IP坏自动换、并发、私信目标UID池、新IP池、旧代理前缀/上限和当前分组，避免每次更新后重新调整。",
+  "sha256": "ffcc216e260c26ffb43ba77638f976c7ba8d892d29e76a680d1429122f5fba5b"
 }
