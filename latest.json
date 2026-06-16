@@ -1,6 +1,6 @@
 {
-  "version": "1.6.98",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.98/account_checker-v1.6.98.exe",
-  "notes": "v1.6.98: 修复手动打开窗口 token-only 误报为已确认打开；open_windows 现在必须等待 BB opened/ids 最终确认，并记录每个序号的打开细节。",
-  "sha256": "40389b8a90c4a3729550d0c7f22d24c7052e3806858ceef63442dc4b0661ffd0"
+  "version": "1.6.99",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.99/account_checker-v1.6.99.exe",
+  "notes": "v1.6.99: 手动打开窗口保护补全。open_windows 仍严格以 BB opened/ids 确认为准；list_open 轮询发现 BB 外部已打开窗口时自动加入保护池，避免检测收尾或自动换代理关闭用户正在看的窗口。",
+  "sha256": "ec13eb3ed823558f6f024a380cd7ad7c713cf9659a09f2fd7991ea8117b3421f"
 }
