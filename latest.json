@@ -1,6 +1,6 @@
 {
-  "version": "1.6.93",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.93/account_checker-v1.6.93.exe",
-  "notes": "v1.6.93: fix target DM CDP retry and keep user-opened BitBrowser windows; add messages/new fallback and multiline proxy prefix input",
-  "sha256": "ca9c9b1353c199d95e047978716bee7e5b3868b92adf3c95185705f4f9a77fe9"
+  "version": "1.6.94",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.94/account_checker-v1.6.94.exe",
+  "notes": "v1.6.94: persist target DM UID pool immediately while typing and restore it on startup",
+  "sha256": "4d8656b72ab7d5efc777c03aa6f5d3888f6fb44a206a7abe87f3009c333d6746"
 }
