@@ -1,6 +1,6 @@
 {
-  "version": "1.6.92",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.92/account_checker-v1.6.92.exe",
-  "notes": "v1.6.92: share account-picker review markers across checker, runner, diagnostics, and tests",
-  "sha256": "252926cc5a92aa0519a9f8e786e511f1584e3438cf59590b55250b0ea0032072"
+  "version": "1.6.93",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.93/account_checker-v1.6.93.exe",
+  "notes": "v1.6.93: fix target DM CDP retry and keep user-opened BitBrowser windows; add messages/new fallback and multiline proxy prefix input",
+  "sha256": "ca9c9b1353c199d95e047978716bee7e5b3868b92adf3c95185705f4f9a77fe9"
 }
