@@ -1,6 +1,6 @@
 {
-  "version": "1.6.101",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.101/account_checker-v1.6.101.exe",
-  "notes": "v1.6.101: 检测页当前状态持久化到 config.json，并兼容首次升级迁移。更新后自动恢复回写、切中文、检测私信、标签页清理、保留备注、IP坏自动换、并发、私信目标UID池、新IP池、旧代理前缀/上限和当前分组；首次没有 config 状态时不会用默认值覆盖旧 localStorage，会先迁移当前页面状态。",
-  "sha256": "da209dd03bc29f9a65f9dcef1381ccf7212a9fa4735e63004509832f8bdfb671"
+  "version": "1.7.00",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.00/account_checker-v1.7.00.exe",
+  "notes": "v1.7.00: add full BB window close audit logs and keep-open skip logs; preserve manual-open windows; widen proxy prefix input and compact status columns",
+  "sha256": "240aa6c5ab6fb6154f7c8b2bc96e5efee2fb0e5a6465a90622f1271680ff287f"
 }
