@@ -1,6 +1,6 @@
 {
-  "version": "1.6.94",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.94/account_checker-v1.6.94.exe",
-  "notes": "v1.6.94: persist target DM UID pool immediately while typing and restore it on startup",
-  "sha256": "4d8656b72ab7d5efc777c03aa6f5d3888f6fb44a206a7abe87f3009c333d6746"
+  "version": "1.6.95",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.95/account_checker-v1.6.95.exe",
+  "notes": "v1.6.95: prevent detector from closing user-opened BitBrowser windows, including in-flight open clicks and proxy auto-replace",
+  "sha256": "86f4f05285fdd2075844f6684aef66584bd27031a5b2f33609486b2333a0fb7d"
 }
