@@ -1,6 +1,6 @@
 {
-  "version": "1.6.95",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.95/account_checker-v1.6.95.exe",
-  "notes": "v1.6.95: prevent detector from closing user-opened BitBrowser windows, including in-flight open clicks and proxy auto-replace",
-  "sha256": "86f4f05285fdd2075844f6684aef66584bd27031a5b2f33609486b2333a0fb7d"
+  "version": "1.6.96",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.6.96/account_checker-v1.6.96.exe",
+  "notes": "v1.6.96: improve target Messenger continue/restore/PIN blocker handling and diagnostic hints",
+  "sha256": "a1d479842c12b4f58183aab859e1d874b48deb860588ca12294ee99609cd6fcd"
 }
