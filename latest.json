@@ -1,6 +1,6 @@
 {
-  "version": "1.7.00",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.00/account_checker-v1.7.00.exe",
-  "notes": "v1.7.00: add full BB window close audit logs and keep-open skip logs; preserve manual-open windows; widen proxy prefix input and compact status columns",
-  "sha256": "240aa6c5ab6fb6154f7c8b2bc96e5efee2fb0e5a6465a90622f1271680ff287f"
+  "version": "1.7.01",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.01/account_checker-v1.7.01.exe",
+  "notes": "Hotfix: 修复窗口保护误伤。list_open 轮询不再登记共享保护；自动清理历史 account_checker_list_open 污染保护；关闭窗口先清保护再关闭；后台 orphan 清理只跳过真实手动打开保护。",
+  "sha256": "7a51fb03f3a9d8c67f8317fcbdbadc966efef5147f94db135b8a4c5ab3db5958"
 }
