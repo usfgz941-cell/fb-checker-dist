@@ -1,6 +1,6 @@
 {
-  "version": "1.7.02",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.02/account_checker-v1.7.02.exe",
-  "notes": "fix account picker login/continue false Cookie-expired writeback: add final trusted rescue, homepage rescue linkage, retry and skip-writeback protection for unconfirmed account picker",
-  "sha256": "36b219178e14cf62f77b3e935b92ee4ae6fd2282de528b7bc76134bec2be81cb"
+  "version": "1.7.03",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.03/account_checker-v1.7.03.exe",
+  "notes": "fix checker updater cache issue: add cache-buster and choose highest version across raw/jsDelivr sources; includes account picker false Cookie-expired fix",
+  "sha256": "6e99eb80330566e3f88cfa004e9f92e407c1728344e7bc7e462cbdefa438899f"
 }
