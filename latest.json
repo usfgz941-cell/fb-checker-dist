@@ -1,6 +1,6 @@
 {
-  "version": "1.7.03",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.03/account_checker-v1.7.03.exe",
-  "notes": "fix checker updater cache issue: add cache-buster and choose highest version across raw/jsDelivr sources; includes account picker false Cookie-expired fix",
-  "sha256": "6e99eb80330566e3f88cfa004e9f92e407c1728344e7bc7e462cbdefa438899f"
+  "version": "1.7.04",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.04/account_checker-v1.7.04.exe",
+  "notes": "v1.7.04 fix false Chinese switch success when html lang remains English; skip writeback for unknown CDP disconnect/no-close-frame tool failures",
+  "sha256": "19294564d831fa34215a7397873e276c94afd0764a63bf59aef324f01b87d30a"
 }
