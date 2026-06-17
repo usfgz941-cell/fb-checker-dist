@@ -1,6 +1,6 @@
 {
-  "version": "1.7.05",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.05/account_checker-v1.7.05.exe",
-  "notes": "v1.7.05 treat unknown CDP no-close-frame disconnects as BB/tool failures at source, retry 3 times, and keep writeback protected; keep v1.7.04 language false-success guard",
-  "sha256": "e588a7fc3aecab88580b068db6d174639b38eb3d0faf7077962ebb7b6a9d6958"
+  "version": "1.7.06",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.06/account_checker-v1.7.06.exe",
+  "notes": "v1.7.06 fix updater stale-cache issue: use GitHub contents/releases API as authoritative sources when raw/jsDelivr latest.json are cached; includes v1.7.05 CDP disconnect retry/writeback fix",
+  "sha256": "80966071799bb8b87946000e5f2d59535f908b4982c41f1a06f6449a0bb132e0"
 }
