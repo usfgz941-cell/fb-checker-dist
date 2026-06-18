@@ -1,6 +1,6 @@
 {
-  "version": "1.7.07",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.07/account_checker-v1.7.07.exe",
-  "notes": "v1.7.07 检测私信目标 UID 池轮换：固定目标不可用时自动尝试下一目标，降低可发私信误判；10 个 X 实测通过",
-  "sha256": "52467051ec97267f16dc11e091a806b3fa48376cd02c81c5bd5672ed188d1706"
+  "version": "1.7.08",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.08/account_checker-v1.7.08.exe",
+  "notes": "v1.7.08 首页复核证据增强、简中判定修复、私信目标池直连优化、更新检查多源防缓存",
+  "sha256": "752d2269c538e134209a1a00e96cab8f4aaa65ac3c76ad39621a8998c9000a23"
 }
