@@ -1,6 +1,6 @@
 {
-  "version": "1.7.10",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.10/account_checker-v1.7.10.exe",
-  "notes": "v1.7.10: 修复批量修改预览前未刷新选中窗口名；预览返回同步更新表格；日志耗时同时显示分钟和秒",
-  "sha256": "07c7dd2e476f27686093e8836b6c2505c12ee5bd2fb969df98b794caa1f4a547"
+  "version": "1.7.11",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.11/account_checker-v1.7.11.exe",
+  "notes": "修复：勾选检测私信时，私信入口不确定不再阻断首页已确认活跃账号回写；界面名称改为 BB窗口检测器（本地版）。",
+  "sha256": "5f3c81db1ad93243fcba507c771b5ff144593e70354f937e45027b90cebfd9aa"
 }
