@@ -1,6 +1,6 @@
 {
-  "version": "1.7.11",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.11/account_checker-v1.7.11.exe",
-  "notes": "修复：勾选检测私信时，私信入口不确定不再阻断首页已确认活跃账号回写；界面名称改为 BB窗口检测器（本地版）。",
-  "sha256": "5f3c81db1ad93243fcba507c771b5ff144593e70354f937e45027b90cebfd9aa"
+  "version": "1.7.12",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.12/account_checker-v1.7.12.exe",
+  "notes": "v1.7.12: account-picker confirmed logout writeback; classify empty CDP ConnectionClosedError as BB-unreachable retry; improve diagnostic export hints.",
+  "sha256": "fd2da5430193c6af5b4b0a60018e5aefdcf5c7b7eb22a6f4817fe549913295f9"
 }
