@@ -1,6 +1,6 @@
 {
-  "version": "1.7.08",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.08/account_checker-v1.7.08.exe",
-  "notes": "v1.7.08 首页复核证据增强、简中判定修复、私信目标池直连优化、更新检查多源防缓存",
-  "sha256": "752d2269c538e134209a1a00e96cab8f4aaa65ac3c76ad39621a8998c9000a23"
+  "version": "1.7.09",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.09/account_checker-v1.7.09.exe",
+  "notes": "v1.7.09 修复 BB 窗口关闭确认: close 返回失败或 opened/ids 仍命中时自动重试; 已用广告部(家杰) X 前缀第6/7批共20个实机验证, 私信目标池 direct 检测稳定且结束 opened_count=0",
+  "sha256": "35426fda3552d21615ff3870a0db398b57f02336ade56a38d9e57a0118c73902"
 }
