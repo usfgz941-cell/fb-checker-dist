@@ -1,6 +1,6 @@
 {
-  "version": "1.7.14",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.14/account_checker-v1.7.14.exe",
-  "notes": "v1.7.14: 基于 v1.7.13 UI 修复私信目标 UID 池启动恢复；本机保存配置优先于空 localStorage，并与 BitBrowser 初始化并行恢复。",
-  "sha256": "a7838562cf7cf4c443a043f692a14c55641e30d2508da1411274b48a2c4d3745"
+  "version": "1.7.15",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.15/account_checker-v1.7.15.exe",
+  "notes": "v1.7.15: 修复账号选择器/软提示链路实机误判；9487/11957 本机源码实测通过。",
+  "sha256": "0657e4f2a9324bea09db1d9aed59f7a95763bba864a0cb7c019add2482b2ed7a"
 }
