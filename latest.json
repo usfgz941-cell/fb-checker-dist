@@ -1,6 +1,6 @@
 {
-  "version": "1.7.12",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.12/account_checker-v1.7.12.exe",
-  "notes": "v1.7.12: account-picker confirmed logout writeback; classify empty CDP ConnectionClosedError as BB-unreachable retry; improve diagnostic export hints.",
-  "sha256": "fd2da5430193c6af5b4b0a60018e5aefdcf5c7b7eb22a6f4817fe549913295f9"
+  "version": "1.7.13",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.13/account_checker-v1.7.13.exe",
+  "notes": "v1.7.13: persist Messenger target UID pool in UI state; compact checker toolbar; keep Window and Name columns always visible without column toggles.",
+  "sha256": "23168f80d026ca4bf3f502c378b655eceeae1ec849e6d73c8e3175097f011657"
 }
