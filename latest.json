@@ -1,6 +1,6 @@
 {
-  "version": "1.7.17",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.17/account_checker-v1.7.17.exe",
-  "notes": "v1.7.17: 修复设置折叠后仍出现页面级滚动条；账号检测页改为一屏 flex 布局，只保留表格和日志内部滚动。",
-  "sha256": "31bac0f90c866ca50026352886ee668947854d6968a98d514292bbe47a98bbfd"
+  "version": "1.7.18",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.18/account_checker-v1.7.18.exe",
+  "notes": "修复切中文时 Reels/Insights 弹层遮挡导致失败",
+  "sha256": "fe84dc1575f24a84390f82d38e2ad50834203ef3a5d0e8615d64cd0b0255d9f5"
 }
