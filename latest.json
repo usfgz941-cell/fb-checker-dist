@@ -1,6 +1,6 @@
 {
-  "version": "1.7.13",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.13/account_checker-v1.7.13.exe",
-  "notes": "v1.7.13: persist Messenger target UID pool in UI state; compact checker toolbar; keep Window and Name columns always visible without column toggles.",
-  "sha256": "23168f80d026ca4bf3f502c378b655eceeae1ec849e6d73c8e3175097f011657"
+  "version": "1.7.14",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.14/account_checker-v1.7.14.exe",
+  "notes": "v1.7.14: 基于 v1.7.13 UI 修复私信目标 UID 池启动恢复；本机保存配置优先于空 localStorage，并与 BitBrowser 初始化并行恢复。",
+  "sha256": "a7838562cf7cf4c443a043f692a14c55641e30d2508da1411274b48a2c4d3745"
 }
