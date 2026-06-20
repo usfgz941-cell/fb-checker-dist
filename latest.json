@@ -1,6 +1,6 @@
 {
-  "version": "1.7.15",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.15/account_checker-v1.7.15.exe",
-  "notes": "v1.7.15: 修复账号选择器/软提示链路实机误判；9487/11957 本机源码实测通过。",
-  "sha256": "0657e4f2a9324bea09db1d9aed59f7a95763bba864a0cb7c019add2482b2ed7a"
+  "version": "1.7.16",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.16/account_checker-v1.7.16.exe",
+  "notes": "v1.7.16: 修复活跃·未简中误标；首页简体 UI 证据兜底语言确认；区分非简中与简中未确认。",
+  "sha256": "b2d1161858c41a69d60e8324e7cc684a54e722e9fbe0a7e01d8964080b47891f"
 }
