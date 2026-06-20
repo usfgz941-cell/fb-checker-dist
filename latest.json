@@ -1,6 +1,6 @@
 {
-  "version": "1.7.16",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.16/account_checker-v1.7.16.exe",
-  "notes": "v1.7.16: 修复活跃·未简中误标；首页简体 UI 证据兜底语言确认；区分非简中与简中未确认。",
-  "sha256": "b2d1161858c41a69d60e8324e7cc684a54e722e9fbe0a7e01d8964080b47891f"
+  "version": "1.7.17",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.17/account_checker-v1.7.17.exe",
+  "notes": "v1.7.17: 修复设置折叠后仍出现页面级滚动条；账号检测页改为一屏 flex 布局，只保留表格和日志内部滚动。",
+  "sha256": "31bac0f90c866ca50026352886ee668947854d6968a98d514292bbe47a98bbfd"
 }
