@@ -1,6 +1,6 @@
 {
-  "version": "1.7.20",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.20/account_checker-v1.7.20.exe",
-  "notes": "修复代理替换空旧前缀时误按代理分组查找，改为直接使用当前已勾选窗口",
-  "sha256": "9ab07a2a3fa4db4b7c92b21b201ea5cbe4c578d70d6f79c73b6dbb1a5178876c"
+  "version": "1.7.21",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.21/account_checker-v1.7.21.exe",
+  "notes": "v1.7.21: defer target DM probe until after eager Chinese switch; skip full language switch when current page UI is already clearly Simplified Chinese",
+  "sha256": "761a3cbbe7ec368308c8a1c34c09c1af45c5e463def70c24956a05db0e7ac559"
 }
