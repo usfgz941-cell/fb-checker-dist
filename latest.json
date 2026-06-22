@@ -1,6 +1,6 @@
 {
-  "version": "1.7.18",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.18/account_checker-v1.7.18.exe",
-  "notes": "修复切中文时 Reels/Insights 弹层遮挡导致失败",
-  "sha256": "fe84dc1575f24a84390f82d38e2ad50834203ef3a5d0e8615d64cd0b0255d9f5"
+  "version": "1.7.19",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.19/account_checker-v1.7.19.exe",
+  "notes": "代理替换支持旧前缀留空，按当前可见已勾选窗口替换",
+  "sha256": "84e698f813585db722ccd57c8df195d13528cc624bd2a542dfc991ed58c7a4f0"
 }
