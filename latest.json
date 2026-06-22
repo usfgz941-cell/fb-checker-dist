@@ -1,6 +1,6 @@
 {
-  "version": "1.7.19",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.19/account_checker-v1.7.19.exe",
-  "notes": "代理替换支持旧前缀留空，按当前可见已勾选窗口替换",
-  "sha256": "84e698f813585db722ccd57c8df195d13528cc624bd2a542dfc991ed58c7a4f0"
+  "version": "1.7.20",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.20/account_checker-v1.7.20.exe",
+  "notes": "修复代理替换空旧前缀时误按代理分组查找，改为直接使用当前已勾选窗口",
+  "sha256": "9ab07a2a3fa4db4b7c92b21b201ea5cbe4c578d70d6f79c73b6dbb1a5178876c"
 }
