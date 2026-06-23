@@ -1,6 +1,6 @@
 {
-  "version": "1.7.21",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.21/account_checker-v1.7.21.exe",
-  "notes": "v1.7.21: defer target DM probe until after eager Chinese switch; skip full language switch when current page UI is already clearly Simplified Chinese",
-  "sha256": "761a3cbbe7ec368308c8a1c34c09c1af45c5e463def70c24956a05db0e7ac559"
+  "version": "1.7.22",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.22/account_checker-v1.7.22.exe",
+  "notes": "v1.7.22: improve Facebook account-language detection across localized UIs; add Thai Facebook-language variant and generic Facebook+language matcher for SPA/DOM language switch.",
+  "sha256": "3fcb73aa874a8bec2b237dc0099b78e562c4e2198311c60564dd25697515acbf"
 }
