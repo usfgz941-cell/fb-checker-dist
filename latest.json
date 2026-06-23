@@ -1,6 +1,6 @@
 {
-  "version": "1.7.22",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.22/account_checker-v1.7.22.exe",
-  "notes": "v1.7.22: improve Facebook account-language detection across localized UIs; add Thai Facebook-language variant and generic Facebook+language matcher for SPA/DOM language switch.",
-  "sha256": "3fcb73aa874a8bec2b237dc0099b78e562c4e2198311c60564dd25697515acbf"
+  "version": "1.7.23",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.23/account_checker-v1.7.23.exe",
+  "notes": "v1.7.23: 首页空壳/水合卡住时不再判活跃；诊断导出从 runtime.debug.log 补齐本批每号档案并提示缺失号。",
+  "sha256": "16476e5c01c003f8752f4517bc4547bfed8285aac006dc5300f723c915c290d1"
 }
