@@ -1,6 +1,6 @@
 {
-  "version": "1.7.26",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.26/account_checker-v1.7.26.exe",
-  "notes": "v1.7.26: 修复账号选择器继续后落到登录壳页被误判 Cookie失效的问题；首页确认新增登录壳结构证据，必要时 trusted click 登录并复核首页。",
-  "sha256": "ed8c664c017331a538ccc19a0a8dcde54654aebec36b768843ef7dc611a3f0c2"
+  "version": "1.7.27",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.27/account_checker-v1.7.27.exe",
+  "notes": "v1.7.27：BitBrowser 打开节流与重试；登录/继续链路保护；目标私信页异常不误降级；私信 blocker 重检轮换；诊断与界面细节修复",
+  "sha256": "b66bcc00ba8c49003e3917efc199e9d07986965b515114556d876fd9096e78d4"
 }
