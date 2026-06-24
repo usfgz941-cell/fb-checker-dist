@@ -1,6 +1,6 @@
 {
-  "version": "1.7.28",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.28/account_checker-v1.7.28.exe",
-  "notes": "v1.7.28：账号选择器已确认失效不再重复重试；私信/继续链路实测优化；补充诊断与回归测试",
-  "sha256": "9567829f59a00bc3a28a91469d942de06b703cc18d97d5608d793d7c84a95d8e"
+  "version": "1.7.29",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.29/account_checker-v1.7.29.exe",
+  "notes": "v1.7.29: 收敛账号选择器无密码重复等待；保留可恢复继续/密码重登链路；第9/10批C1实机验证通过",
+  "sha256": "60d855deb5487d6636977299d9c95307dae310939999d06f94fa052ecb1729fa"
 }
