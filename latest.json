@@ -1,6 +1,6 @@
 {
-  "version": "1.7.25",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.25/account_checker-v1.7.25.exe",
-  "notes": "v1.7.25: 紧急修复账号选择器结构兜底误点；纯结构候选只记录诊断不再点击，账号选择器判定必须有继续/登录 text 或 aria 证据。",
-  "sha256": "7e66a93bb9611101617aa99ab93f47aa18b3a8dfaba088f13bef841ab3bfd639"
+  "version": "1.7.26",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.26/account_checker-v1.7.26.exe",
+  "notes": "v1.7.26: 修复账号选择器继续后落到登录壳页被误判 Cookie失效的问题；首页确认新增登录壳结构证据，必要时 trusted click 登录并复核首页。",
+  "sha256": "ed8c664c017331a538ccc19a0a8dcde54654aebec36b768843ef7dc611a3f0c2"
 }
