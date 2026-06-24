@@ -1,6 +1,6 @@
 {
-  "version": "1.7.23",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.23/account_checker-v1.7.23.exe",
-  "notes": "v1.7.23: 首页空壳/水合卡住时不再判活跃；诊断导出从 runtime.debug.log 补齐本批每号档案并提示缺失号。",
-  "sha256": "16476e5c01c003f8752f4517bc4547bfed8285aac006dc5300f723c915c290d1"
+  "version": "1.7.24",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.24/account_checker-v1.7.24.exe",
+  "notes": "v1.7.24: 账号选择器登录/继续按钮改为 text/aria/结构兜底定位并记录 seq+phase+candidates；诊断导出补充按钮定位失败和结构兜底点击提示。",
+  "sha256": "26fb29ae2bde9ad01ef84fd1ac39a0515029df255fd2bc21c13ee1de98bdbd71"
 }
