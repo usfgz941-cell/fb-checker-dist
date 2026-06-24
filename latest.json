@@ -1,6 +1,6 @@
 {
-  "version": "1.7.24",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.24/account_checker-v1.7.24.exe",
-  "notes": "v1.7.24: 账号选择器登录/继续按钮改为 text/aria/结构兜底定位并记录 seq+phase+candidates；诊断导出补充按钮定位失败和结构兜底点击提示。",
-  "sha256": "26fb29ae2bde9ad01ef84fd1ac39a0515029df255fd2bc21c13ee1de98bdbd71"
+  "version": "1.7.25",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.25/account_checker-v1.7.25.exe",
+  "notes": "v1.7.25: 紧急修复账号选择器结构兜底误点；纯结构候选只记录诊断不再点击，账号选择器判定必须有继续/登录 text 或 aria 证据。",
+  "sha256": "7e66a93bb9611101617aa99ab93f47aa18b3a8dfaba088f13bef841ab3bfd639"
 }
