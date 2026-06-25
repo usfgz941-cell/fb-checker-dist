@@ -1,6 +1,6 @@
 {
-  "version": "1.7.29",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.29/account_checker-v1.7.29.exe",
-  "notes": "v1.7.29: 收敛账号选择器无密码重复等待；保留可恢复继续/密码重登链路；第9/10批C1实机验证通过",
-  "sha256": "60d855deb5487d6636977299d9c95307dae310939999d06f94fa052ecb1729fa"
+  "version": "1.7.30",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.30/account_checker-v1.7.30.exe",
+  "notes": "v1.7.30: 批后冷却串行补测最终BB未连；BB未连档案保留底层连接原因",
+  "sha256": "de1aa9f792658000cee79a8954fdfc144ef5eb729d1ba96b445fd3a363720f3b"
 }
