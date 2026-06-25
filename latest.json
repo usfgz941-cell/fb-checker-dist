@@ -1,6 +1,6 @@
 {
-  "version": "1.7.30",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.30/account_checker-v1.7.30.exe",
-  "notes": "v1.7.30: 批后冷却串行补测最终BB未连；BB未连档案保留底层连接原因",
-  "sha256": "de1aa9f792658000cee79a8954fdfc144ef5eb729d1ba96b445fd3a363720f3b"
+  "version": "1.7.31",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.31/account_checker-v1.7.31.exe",
+  "notes": "v1.7.31 修复私信检测临时可输入框提前判活跃：取消 sendable 早退，完整观察验证身份延迟出现",
+  "sha256": "2830f006f9496e2d7618a0da91670affecf69354623c21ffe053a27f0d7d3ee8"
 }
