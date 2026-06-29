@@ -1,6 +1,6 @@
 {
-  "version": "1.7.33",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.33/account_checker-v1.7.33.exe",
-  "notes": "v1.7.33: 私信 direct 目标页输入框/目标拦截证据优先于 L0；修复继续后出现输入框仍被账号选择器误覆盖；补充 evidence trace 日志和回归测试",
-  "sha256": "a9c53f519d819a029c607d620789272b5c94b0dca9c89d555ca7df496c8fc849"
+  "version": "1.7.34",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.34/account_checker-v1.7.34.exe",
+  "notes": "v1.7.34: 修复账号选择器继续后过早判 Cookie失效；继续页点击前置前台激活，并对继续后短暂停留账号选择器的场景做有边界最终复核，覆盖 40821/40888 类可用号误判",
+  "sha256": "af559f5c7dd2b1a3495aa98d3f241280c1d20c4fa57c823bb7f8cc39ca6ed947"
 }
