@@ -1,6 +1,6 @@
 {
-  "version": "1.7.34",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.34/account_checker-v1.7.34.exe",
-  "notes": "v1.7.34: 修复账号选择器继续后过早判 Cookie失效；继续页点击前置前台激活，并对继续后短暂停留账号选择器的场景做有边界最终复核，覆盖 40821/40888 类可用号误判",
-  "sha256": "af559f5c7dd2b1a3495aa98d3f241280c1d20c4fa57c823bb7f8cc39ca6ed947"
+  "version": "1.7.35",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.35/account_checker-v1.7.35.exe",
+  "notes": "v1.7.35: 修复检测私信漏判陌生消息数量上限；目标私信页出现‘你的陌生消息已达数量上限/24小时内可发送的陌生消息数量有上限’时判为私信受限，避免被可见输入框误判为活跃。",
+  "sha256": "2858db184ef90b5b4acc748d9b5b80c90752ba0af9279f4ad2f1c2b954ef418f"
 }
