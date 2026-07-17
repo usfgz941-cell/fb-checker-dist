@@ -1,6 +1,9 @@
 {
-  "version": "1.7.36",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.36/account_checker-v1.7.36.exe",
-  "notes": "v1.7.36: 新增 Facebook OMT 隐私设置迁移页自动处理；按结构完成‘检查设置 → 不允许使用站外动态 → 确认 → 关闭’，覆盖 129235/37077，避免卡在隐私同意待处理。",
-  "sha256": "9b96cbbe5a2e2161699bcc609be6d6d07320a4868d884271c7a0a099a69ad5d9"
+  "version": "1.7.37",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.37/account_checker-v1.7.37.exe",
+  "notes": "v1.7.37: 重建干净检测器生产基线，移除误混入的注册工作台；保留账号选择器恢复、私信陌生消息数量上限识别与 OMT 隐私页处理；新增源码与 EXE 发布边界、Git 来源和不可覆盖发布校验。",
+  "sha256": "e74b9a4dda66d57ed13ac4fc5c4743f08d153faa4aae1b06c50239201195620c",
+  "size_bytes": 32837334,
+  "source_commit": "baf93c7d134ce48db8e979c4be976be89604735e",
+  "source_fingerprint": "421d1df6eb9c14dfdc3ed5018dbb9ef928e3de8f3ce24e9021600d8a9db5b30f"
 }
