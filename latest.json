@@ -1,6 +1,6 @@
 {
-  "version": "1.7.35",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.35/account_checker-v1.7.35.exe",
-  "notes": "v1.7.35: 修复检测私信漏判陌生消息数量上限；目标私信页出现‘你的陌生消息已达数量上限/24小时内可发送的陌生消息数量有上限’时判为私信受限，避免被可见输入框误判为活跃。",
-  "sha256": "2858db184ef90b5b4acc748d9b5b80c90752ba0af9279f4ad2f1c2b954ef418f"
+  "version": "1.7.36",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.36/account_checker-v1.7.36.exe",
+  "notes": "v1.7.36: 新增 Facebook OMT 隐私设置迁移页自动处理；按结构完成‘检查设置 → 不允许使用站外动态 → 确认 → 关闭’，覆盖 129235/37077，避免卡在隐私同意待处理。",
+  "sha256": "9b96cbbe5a2e2161699bcc609be6d6d07320a4868d884271c7a0a099a69ad5d9"
 }
