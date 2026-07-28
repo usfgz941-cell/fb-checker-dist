@@ -1,9 +1,9 @@
 {
-  "version": "1.7.40",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.40/account_checker-v1.7.40.exe",
-  "notes": "v1.7.40：代理替换继续按标准 host:port:user:pass 精确匹配；预览完整显示旧、新代理凭据并优化列宽；完整代理详情读取失败时停止预览/替换；应用前校验预览计划，防止 BB 信息变化导致错换。",
-  "sha256": "64142c6a77ee8693e2804e332c99f052f95aff4dd34a7cd3b730328fe4fea88e",
-  "size_bytes": 32842697,
-  "source_commit": "b51b695e33a20d020480a0c7dd2b752789bbc7ff",
-  "source_fingerprint": "30adb1875c3dbd594c1728ed7e2c9e156ba625af7e1905ef0578ac8af3e3e281"
+  "version": "1.7.41",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.41/account_checker-v1.7.41.exe",
+  "notes": "v1.7.41：新增可恢复锁定账号状态机，自动处理“开始→关闭安全弹窗→首页复核”；验证码、人机验证、强制改密和网络失败按真实分支分类；模糊安全页仅在 hydration 失败时 fresh-CDP 重试一次。",
+  "sha256": "80796b78aede5a11841748bddd4a669788adc95344eefacf763bde2b9e71f2d3",
+  "size_bytes": 32852449,
+  "source_commit": "970f92e9f6de190d6a47a7e13c9860de59d9d4ec",
+  "source_fingerprint": "c8a6ed59c2d42d3dfe61fe9da264a0346e94f910a625801b666dbc077084b102"
 }
