@@ -1,9 +1,9 @@
 {
-  "version": "1.7.38",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.38/account_checker-v1.7.38.exe",
-  "notes": "v1.7.38：修复账号选择器点击“继续”后 checkpoint React 骨架晚渲染导致的 Cookie 失效误判；仅对明确未渲染的关键页等待真实状态，随后自动处理可恢复软提示，正常页面不增加等待。",
-  "sha256": "54bf9f00fd74f78e65f47ef57c965528e729548d62d31253f121e9c16dcca185",
-  "size_bytes": 32838337,
-  "source_commit": "a6fef7fb5ccd63d81e355aef0580a1514be291aa",
-  "source_fingerprint": "54fa0b4ea3b52b2277da133b91aa074227e10b902965bbb169e477b53e0e1a77"
+  "version": "1.7.39",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.39/account_checker-v1.7.39.exe",
+  "notes": "v1.7.39：修复代理替换前缀被错误降级为仅 IP 导致跨端口误命中；现在按 host:port:user:pass 输入长度逐段匹配，完整密码按需读取候选详情核验，详情读取失败自动阻断替换；新 IP 池增加同步行号，并关闭自动换行和拼写检查。",
+  "sha256": "ef2160e45b2c1752df7d7f7f6525d1d52ffae0414297abf2908dab1b13f36fd0",
+  "size_bytes": 32842681,
+  "source_commit": "a3cf993ecd20ba293a27e0a8e98b6c501b2c469c",
+  "source_fingerprint": "c5b241be799334b02b23ffb95ca5ce6145b6b8816ebdc5282565a5ffd70cd5fa"
 }
