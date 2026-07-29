@@ -1,9 +1,9 @@
 {
-  "version": "1.7.41",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.41/account_checker-v1.7.41.exe",
-  "notes": "v1.7.41：新增可恢复锁定账号状态机，自动处理“开始→关闭安全弹窗→首页复核”；验证码、人机验证、强制改密和网络失败按真实分支分类；模糊安全页仅在 hydration 失败时 fresh-CDP 重试一次。",
-  "sha256": "80796b78aede5a11841748bddd4a669788adc95344eefacf763bde2b9e71f2d3",
-  "size_bytes": 32852449,
-  "source_commit": "970f92e9f6de190d6a47a7e13c9860de59d9d4ec",
-  "source_fingerprint": "c8a6ed59c2d42d3dfe61fe9da264a0346e94f910a625801b666dbc077084b102"
+  "version": "1.7.42",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.42/account_checker-v1.7.42.exe",
+  "notes": "v1.7.42：新增可恢复锁定账号完整改密链路；仅在结构确认后提交新密码，Facebook 接受后同步并回读验证 BB 密码；支持新登录信息、已解锁和返回 Facebook，真实锁定保持锁定。",
+  "sha256": "a9ff53e7dfa143c7a82b78495cbdd7425793d9479556a2cfd5d8c79cfe4459f3",
+  "size_bytes": 32858808,
+  "source_commit": "4e80fe79142cc005702c0ed70877c095af52661f",
+  "source_fingerprint": "2821069d543dbaab48663a156a8a5b34a374440a607c048001f8d0893305e2d1"
 }
