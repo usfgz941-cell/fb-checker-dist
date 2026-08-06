@@ -1,9 +1,9 @@
 {
-  "version": "1.7.44",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.44/account_checker-v1.7.44.exe",
-  "notes": "v1.7.44：新增预约删除恢复，严格仅点击“取消删除”并通过首页复核后判活跃；高级保护页按验证码(F)分类，禁止自动点击开始或修改密码/2FA。",
-  "sha256": "f2c8a54fff1a6d27e4460cba692fb3331d34898f5d244533d2ad69c23d7f1bc3",
-  "size_bytes": 32866953,
-  "source_commit": "485cc698b2a69af80f7d312975ae17c9d608ad9b",
-  "source_fingerprint": "d9980f3de2b08a8be858f40c114690b347272f84a23d1089eb56704229b7a2d4"
+  "version": "1.7.45",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.45/account_checker-v1.7.45.exe",
+  "notes": "v1.7.45：修复保存密码账号在账号选择器场景下被误判 Cookie 失效；使用其他主页改用 CDP 可信点击，并在首页复核发现账号选择器时补做密码重登。",
+  "sha256": "e0b7388da918959eed64b058c1997d807c636c58c13abf9713a3d02597251ea0",
+  "size_bytes": 32868472,
+  "source_commit": "0ea2afc9789a498a91757dfa60ef8b45bf2cdeb4",
+  "source_fingerprint": "3d77dfa8a3cb09817cbf00c52b0d8d10f555ccf75df013e10602fea2b99398f2"
 }
