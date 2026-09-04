@@ -1,9 +1,9 @@
 {
-  "version": "1.7.45",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.45/account_checker-v1.7.45.exe",
-  "notes": "v1.7.45：修复保存密码账号在账号选择器场景下被误判 Cookie 失效；使用其他主页改用 CDP 可信点击，并在首页复核发现账号选择器时补做密码重登。",
-  "sha256": "e0b7388da918959eed64b058c1997d807c636c58c13abf9713a3d02597251ea0",
-  "size_bytes": 32868472,
-  "source_commit": "0ea2afc9789a498a91757dfa60ef8b45bf2cdeb4",
-  "source_fingerprint": "3d77dfa8a3cb09817cbf00c52b0d8d10f555ccf75df013e10602fea2b99398f2"
+  "version": "1.7.46",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.46/account_checker-v1.7.46.exe",
+  "notes": "v1.7.46：支持 /checkpoint/block/ 强制改密新界面，严格识别双密码框并在 Facebook 接受后同步 BB 密码；修复 BB 7.1.4 精确查询 seq 类型导致的重复失败请求。",
+  "sha256": "2ec0229c0107179c8d266ec525556e6c6201a25a72f992b051ce2ce7aebfdd3f",
+  "size_bytes": 33921697,
+  "source_commit": "95f1104b125edb2abe9ae7881976378aa23c1537",
+  "source_fingerprint": "cc7cbdd6f80a0a1a44a3e74d43dc9f1eca7f64784f352c4b626c636f2c8b0c18"
 }
