@@ -1,9 +1,9 @@
 {
-  "version": "1.7.50",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.50/account_checker-v1.7.50.exe",
-  "notes": "v1.7.50：优化切中文接口与备用菜单流程。按窗口记录接口准备状态、回退原因、HTTP 状态及安全错误码；仅对尚未发请求的准备不足做有界短等，不盲目重复已提交请求。语言选项被遮挡或出现错误弹窗时停止旧坐标连点，保留正常确认及滚动选择，并回首页核验实际语言，避免重复整套菜单和额外刷新。不修改代理配置。",
-  "sha256": "3a5dc907ef315562b50916283783ffa0a26878981f0e07190b026bef9637b53d",
-  "size_bytes": 33935711,
-  "source_commit": "59e59a97bb7a61481a819492ec667e3a437a6b3e",
-  "source_fingerprint": "bba1bd56adfc8f64320ebaff36fc2c76fb3f472967649f7596dc40447387bddb"
+  "version": "1.7.51",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.51/account_checker-v1.7.51.exe",
+  "notes": "v1.7.51：进度条居中显示动态剩余时间，文字随填充逐段反白；兼顾并发、重试、补测和停止收尾；保留原有分类统计及历史数据；细化语言保存失败诊断，帮助示例脱敏。",
+  "sha256": "85117a0874f3fec2db43cc36fd7063dfd2030c54f9d61f563cd9e49a11f087d8",
+  "size_bytes": 33942322,
+  "source_commit": "37d2923d62b0b1f4875286b39addca5f4be7bbd4",
+  "source_fingerprint": "faa8bce05e746d314fcb0d954cd4a74c4050dc879efbc94d2707e3d447cd1f2e"
 }
