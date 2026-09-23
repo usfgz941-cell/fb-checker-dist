@@ -1,9 +1,9 @@
 {
-  "version": "1.7.47",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.47/account_checker-v1.7.47.exe",
-  "notes": "v1.7.47：优先使用窗口当前登录会话切换简体中文，改善旧菜单无法处理的非简中窗口；减少重复首页加载并保留切换后的首页复核；修复语言 Cookie 过期时间与存储验证；请求结果不确定时以实际页面为准，避免盲目重复提交。",
-  "sha256": "be30e10ede20af39a0fec4bbb440a60c888a80836ed5c331bfd7cffb4cc301e1",
-  "size_bytes": 33929077,
-  "source_commit": "f280090871648469ba3b50208813b4c55192e3c9",
-  "source_fingerprint": "698a2f7aa30d11e88c1639e90e341fba07f108f244cda96c6c34a0a114343f17"
+  "version": "1.7.48",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.48/account_checker-v1.7.48.exe",
+  "notes": "v1.7.48：紧急修复检测成功但回写 BB 失败的问题。检测结果改用局部更新，仅写名称、备注及启动网址，避免 DB-IP/ip2location 等无关配置触发 ipCheckService 校验错误；保留写后回读校验及保留原备注选项，不改代理、密码或实际指纹配置。",
+  "sha256": "af68caaf5f9b3d0d3640a29083a37dfb662588d89ba38ad6290a68a2067dcb1c",
+  "size_bytes": 33929549,
+  "source_commit": "6eb23b17709fac2f19aa8f57e4a7254c9beb29cd",
+  "source_fingerprint": "655aedec1e11d139ebeb7f7523b58cac47763dc1e838c1602049c97f229ef23e"
 }
