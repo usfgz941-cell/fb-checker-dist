@@ -1,9 +1,9 @@
 {
-  "version": "1.7.48",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.48/account_checker-v1.7.48.exe",
-  "notes": "v1.7.48：紧急修复检测成功但回写 BB 失败的问题。检测结果改用局部更新，仅写名称、备注及启动网址，避免 DB-IP/ip2location 等无关配置触发 ipCheckService 校验错误；保留写后回读校验及保留原备注选项，不改代理、密码或实际指纹配置。",
-  "sha256": "af68caaf5f9b3d0d3640a29083a37dfb662588d89ba38ad6290a68a2067dcb1c",
-  "size_bytes": 33929549,
-  "source_commit": "6eb23b17709fac2f19aa8f57e4a7254c9beb29cd",
-  "source_fingerprint": "655aedec1e11d139ebeb7f7523b58cac47763dc1e838c1602049c97f229ef23e"
+  "version": "1.7.49",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.49/account_checker-v1.7.49.exe",
+  "notes": "v1.7.49：优化白屏和慢加载时的检测工作流。首页未确认不再继续切语言或后续私信操作；同一轮首页恢复共享次数上限，避免重复整套恢复；重试冷却不占检测并发名额，代理检查和回写仍保持限流；首页未确认会有限补测，仍未通过显示“首页待复核”并保留原名；增加阶段与重试日志，避免异常任务静默丢失。保留 v1.7.48 局部回写修复。",
+  "sha256": "f9cd05f7a550d071679d2829a57301acc9b8f88e9b9cfb2a6ca58cfb093149e6",
+  "size_bytes": 33930755,
+  "source_commit": "ccc3db0f4bcd3c5ab25c9aa4364aebdfbff98d0b",
+  "source_fingerprint": "ec8441e62cff121d83b2d7124f61d7f79a743656fb4aee7f5a04b6c7c22836a3"
 }
