@@ -1,9 +1,9 @@
 {
-  "version": "1.7.51",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.51/account_checker-v1.7.51.exe",
-  "notes": "v1.7.51：进度条居中显示动态剩余时间，文字随填充逐段反白；兼顾并发、重试、补测和停止收尾；保留原有分类统计及历史数据；细化语言保存失败诊断，帮助示例脱敏。",
-  "sha256": "85117a0874f3fec2db43cc36fd7063dfd2030c54f9d61f563cd9e49a11f087d8",
-  "size_bytes": 33942322,
-  "source_commit": "37d2923d62b0b1f4875286b39addca5f4be7bbd4",
-  "source_fingerprint": "faa8bce05e746d314fcb0d954cd4a74c4050dc879efbc94d2707e3d447cd1f2e"
+  "version": "1.7.52",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.52/account_checker-v1.7.52.exe",
+  "notes": "v1.7.52：新增检测统计，按窗口组查看本轮已检测、正常、非正常及分类明细；支持每日变化和CSV/JSON导出；同轮重试按最终结果统计，待复核单列；进度条保持标签页同行。旧检测历史保留，新统计从升级后的检测轮次开始记录。本版仅本地统计，尚未接入网页同步。",
+  "sha256": "de96e5bf98f502c4619200c9c77dd718e7b585d1f44a1ded83f487e319c40a2b",
+  "size_bytes": 33971252,
+  "source_commit": "56f34eef5f574a41a403cc6798b33d3e2944cd39",
+  "source_fingerprint": "7635b9c520ac8c64f2e439ef6aa3abd9df193ac3455d34cddf5f872b18768231"
 }
