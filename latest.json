@@ -1,9 +1,9 @@
 {
-  "version": "1.7.55",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.55/account_checker-v1.7.55.exe",
-  "notes": "v1.7.55：网站修改电脑名称后，检测器自动同步显示部门与电脑名称；连接界面明确检查授权；修复改名同步与断开重连、任务开关并发时的配置覆盖风险，保留原有连接和历史结果。",
-  "sha256": "64873d73d60d7d9b4d659b8cf36793293d79daf64325b02628396c3b8ab7d145",
-  "size_bytes": 34059117,
-  "source_commit": "02bf0336591ca148007185245e2a305c73756556",
-  "source_fingerprint": "0e6a3473cd8b198056a485149d6f3828b285cb96939a9372d4974dced70a4be8"
+  "version": "1.7.56",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.56/account_checker-v1.7.56.exe",
+  "notes": "v1.7.56：优化大批窗口资料上传，按已选分组分页读取并边读边上传；显示已读取、已准备上传和网站已收到进度，支持停止读取及继续未完成窗口；保留原有连接、历史结果和待上传数据，不自动启动检测。",
+  "sha256": "a4ef752c9e812cabb2bfedad5c77c6b38dc815ae52063bd1a1b1eb02167edd76",
+  "size_bytes": 34072969,
+  "source_commit": "ef2a503c4e06be0b9426d4c9c496fd463b2d2820",
+  "source_fingerprint": "daf446bada74208faf9b07286613f3c639c89d11e9e744cbe450aa83cfc6a72f"
 }
