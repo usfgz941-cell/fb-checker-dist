@@ -1,9 +1,9 @@
 {
-  "version": "1.7.53",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.53/account_checker-v1.7.53.exe",
-  "notes": "v1.7.53：优化检测统计排版和排序，明细完整显示当前代理凭据，默认去除重复地址；区分F类账号、私信、网络和未判定，补全回写结果及网络清单；加强换IP身份核对、关窗确认、读回校验及未确认结果保护。保留历史统计，完整凭据仅本机显示，不进入普通导出。",
-  "sha256": "20b7e77111a0be011da4874b76596217ee911093d5a5f7c88e410ac0af05bcbb",
-  "size_bytes": 33998451,
-  "source_commit": "43387d7c40e987f8a7315e8956df35d490d98c6a",
-  "source_fingerprint": "dba4a32cab10b9e0eca9d7e9f7115451dfce60fb4f39f58ea59735c836163f53"
+  "version": "1.7.54",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.54/account_checker-v1.7.54.exe",
+  "notes": "v1.7.54：请先完成当前检测再更新。新增顶部“工作台同步”，支持网站连接码、窗口信息上传和检测结果同步；保留原设置、历史与统计，升级前自动备份。网站安排的检查仅观察，未确认结果不当作损耗。普通手工检测功能保持不变。更新后需本人连接网站，不会自动替同事配对。",
+  "sha256": "8d0295cfece9f55e505f0aadaac6c2b3297b4c1fc50e3b2769dc0f642411d22f",
+  "size_bytes": 34054992,
+  "source_commit": "1c81a1f1622be4684a6658044b7ac05c7806c988",
+  "source_fingerprint": "457fa0bb0a857ded50d605a14e4fb6120325d81bcae373a3971037f7999b1232"
 }
