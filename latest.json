@@ -1,9 +1,9 @@
 {
-  "version": "1.7.57",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.57/account_checker-v1.7.57.exe",
-  "notes": "v1.7.57：修复账号选择页点击继续及密码登录后的加载过渡被提前判定，减少可恢复账号误标 Cookie 失效；未确认登录结果自动保留原窗口名称并允许受控重试，不计作确定损耗；保留现有连接、历史结果和待上传数据。",
-  "sha256": "8d39340dd71baccb9cad1f1eb9440a4a36b76c757fa3c92c040817165d9c6288",
-  "size_bytes": 34074386,
-  "source_commit": "af01b375cc3355ed44c979c9916115af9f0fe5f5",
-  "source_fingerprint": "632710cd6658c90c453fb72f26b93f0c5f3986ec3471463307b7f4cd07fd2a9b"
+  "version": "1.7.58",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.58/account_checker-v1.7.58.exe",
+  "notes": "v1.7.58：补充账号选择页使用其他主页后的非空登录过渡识别，等待密码表单或真实页面状态后再判定；修复重试被大量首轮任务挤到队尾，保持原并发上限、重试次数和回写保护；保留历史结果、工作台连接及待上传数据。",
+  "sha256": "06f6c469b0dee550afd33fcc5c085136a1158cac46c7b71cde932c9cb204b4e7",
+  "size_bytes": 34075992,
+  "source_commit": "b9be46f17c37f1d0f3ccdee524d7c9e84d253b3c",
+  "source_fingerprint": "5ae85647b2733f0ca66c9f8f2fb21cc38047081b6b7e1415e5f2ed9415c29ea9"
 }
