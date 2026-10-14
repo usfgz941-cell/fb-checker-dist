@@ -1,9 +1,9 @@
 {
-  "version": "1.7.59",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.59/account_checker-v1.7.59.exe",
-  "notes": "v1.7.59：优化慢页面加载等待，避免反复刷新打断首页加载；页面未加载完成时保留原窗口名，不误计账号损耗，并明确回写跳过原因。",
-  "sha256": "af20cb523b4240516ff4700a6ce6bdff0c7c6e6da34e8edc545e1f07455651cf",
-  "size_bytes": 34076043,
-  "source_commit": "8afab2604cc38891eb184546e2d7aa2e06db4ebf",
-  "source_fingerprint": "edaa84cfa048846e5c3b782dda527138f83fd570d45c554de4b3039b6f1db401"
+  "version": "1.7.60",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.60/account_checker-v1.7.60.exe",
+  "notes": "v1.7.60：增加 Facebook 移动版首页结构识别，修复修改 Android UA 后首页待复核；保留登录身份、安全验证及延时复核保护，不自动修改 UA 或浏览器内核。",
+  "sha256": "5c003bd39111177c5d351aa7fc277c734312a54ea60099d94a13ceb498d4fd15",
+  "size_bytes": 34077294,
+  "source_commit": "a990534c463eb88fa502fe81d8045bd7849ccfe4",
+  "source_fingerprint": "7913cb1f005804617f6b13b84b895c47aa42095a4884ff045d5b60202a179e4f"
 }
