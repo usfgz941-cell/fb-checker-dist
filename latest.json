@@ -1,9 +1,10 @@
 {
-  "version": "1.7.62",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.62/account_checker-v1.7.62.exe",
-  "notes": "修复登录信息有误被误标为待复核的问题，沿用原F类密码失败名称；明确拒绝登录后不再自动重复重登；避免把上一次错误提示当成本次登录结果；保留原有分类、历史记录和配置。",
-  "sha256": "e98638b178cfd0387fd50583fdd29561960b24f697e3009ed8c0ac196de346d4",
-  "size_bytes": 34093552,
-  "source_commit": "c1e586186afa97c923a68e2123ed029fff31f3bf",
-  "source_fingerprint": "cb45f43d29333530802f2e6154b49d5c4ea72ebd4f0053c24f84a09434cbcc84"
+  "version": "1.7.63",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.63/account_checker-v1.7.63.exe",
+  "notes": "1. 修复私信功能验证和账号验证混淆，减少误判。2. 修复旧登录错误、迟到安全提示和恢复未完成时的分类。3. 回写前核对窗口资料，保留名称主体、IP和密码。4. 保持原有API限速，仅对快速桌面首页做有上限的复核。",
+  "sha256": "55ee57c749b7bafffa338de7f44f8a9a6625022f59d2e4dc157e069b9d992b6a",
+  "size_bytes": 34103978,
+  "source_commit": "f08c5e8db0a5044a34e41b2606c70f91e616ce4b",
+  "source_fingerprint": "f9a2e35b2e9c519ba40827e612804695d716929512dac484600a9ddee7bd53ff",
+  "acceptance_sha256": "598df61b68f5fb2494d19bd39c4f9d142f3da52632da465cf3da03e85843946a"
 }
