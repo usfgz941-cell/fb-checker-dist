@@ -1,9 +1,9 @@
 {
-  "version": "1.7.61",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.61/account_checker-v1.7.61.exe",
-  "notes": "修复多语言隐私流程及跳转复核；跨域CAPTCHA识别为人机验证并标记待人工，不计F类损耗；未知和重登结果未确认标记待复核，增加有界冷却补测；减少BB重复查询与限频突发；保护名称主体、代理和原有数据。",
-  "sha256": "0163294cacb11e5fd2994454d904a542b9b3bf65517bdca9fec3451c9f70a144",
-  "size_bytes": 34093964,
-  "source_commit": "a7d498423bd1bb3d1220be48ebc2701d85144189",
-  "source_fingerprint": "547f9fd273050d449e65f260070dd626b1c162b33555d7952a7152685fdd63d9"
+  "version": "1.7.62",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.62/account_checker-v1.7.62.exe",
+  "notes": "修复登录信息有误被误标为待复核的问题，沿用原F类密码失败名称；明确拒绝登录后不再自动重复重登；避免把上一次错误提示当成本次登录结果；保留原有分类、历史记录和配置。",
+  "sha256": "e98638b178cfd0387fd50583fdd29561960b24f697e3009ed8c0ac196de346d4",
+  "size_bytes": 34093552,
+  "source_commit": "c1e586186afa97c923a68e2123ed029fff31f3bf",
+  "source_fingerprint": "cb45f43d29333530802f2e6154b49d5c4ea72ebd4f0053c24f84a09434cbcc84"
 }
