@@ -1,10 +1,10 @@
 {
-  "version": "1.7.63",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.63/account_checker-v1.7.63.exe",
-  "notes": "1. 修复私信功能验证和账号验证混淆，减少误判。2. 修复旧登录错误、迟到安全提示和恢复未完成时的分类。3. 回写前核对窗口资料，保留名称主体、IP和密码。4. 保持原有API限速，仅对快速桌面首页做有上限的复核。",
-  "sha256": "55ee57c749b7bafffa338de7f44f8a9a6625022f59d2e4dc157e069b9d992b6a",
-  "size_bytes": 34103978,
-  "source_commit": "f08c5e8db0a5044a34e41b2606c70f91e616ce4b",
-  "source_fingerprint": "f9a2e35b2e9c519ba40827e612804695d716929512dac484600a9ddee7bd53ff",
-  "acceptance_sha256": "598df61b68f5fb2494d19bd39c4f9d142f3da52632da465cf3da03e85843946a"
+  "version": "1.7.64",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.64/account_checker-v1.7.64.exe",
+  "notes": "检测器更新 v1.7.64：1. 修复图片文字验证码被分到待处理的问题，恢复F类验证码。2. 跨域人机验证继续保留待人工处理，不和图片验证码混在一起。3. 完成实机复核和回写验证，保留名称主体、IP、密码及历史记录。请通过检查更新升级。",
+  "sha256": "fb07be9ad4ddd17dde4efbeed00b783179b448e4e948bcf18da1e0d66231eb58",
+  "size_bytes": 34103453,
+  "source_commit": "0dac7f2f30b153f21b3790d4c3939a5a764b1829",
+  "source_fingerprint": "d0b47bc84763417723d1574e178f6fd674171b0c342c4dfb1c175b08d26f6952",
+  "acceptance_sha256": "7d0c745f91d387a740f9ff6000b816f98ccfea817b32b176461b6c0197d4353b"
 }
