@@ -1,10 +1,10 @@
 {
-  "version": "1.7.66",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.66/account_checker-v1.7.66.exe",
-  "notes": "检测器更新 v1.7.66\n1. 修复部分窗口回写后仍打开旧验证页面的问题。\n2. 避免验证异常时反复重登，网络重试不会重复提交密码。\n3. 登录失败、验证过期和登录未完成会分清原因，不再误显示重登成功。\n",
-  "sha256": "8d9bb1081972475ffead3080163f8a9267451dd036d66adaa02fceeccf155cca",
-  "size_bytes": 34109809,
-  "source_commit": "dd2cfcefbde31f8ac711587c81083d04d0ef5f6d",
-  "source_fingerprint": "4bd139e8592b1d257f4bf687b59c4cb8067d962d7feafe66ffdfcb3bb62f6981",
-  "acceptance_sha256": "df431665cc7feb28f8940e0233d971f0cea1e9a3c6f20c7fbbdf7c866980a131"
+  "version": "1.7.67",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.67/account_checker-v1.7.67.exe",
+  "notes": "检测器更新 v1.7.67\n1. 登录流程中的拼图/音频验证，按 F 类“需验证”处理。\n2. reCAPTCHA 勾选/图片验证仍按“待｜人机验证”处理，不混入 F 类。\n3. 同步修正对应回写和统计归类，保留原有单次登录保护。",
+  "sha256": "9a2175ec47b8b43a01e77932c3e3333b43f9a0fd4afaed711aceadc4b91e7664",
+  "size_bytes": 34110011,
+  "source_commit": "43abaeddfe0dd5528f3e5cdd1b35ba80b8406764",
+  "source_fingerprint": "997d164370c8b901783153355af0ef1cc701b08c398683d99204279100d4e915",
+  "acceptance_sha256": "a30dc51b9fbb431c0b0da826469bf23c275ced9cea6c9ff97f7b8bc6377bce74"
 }
