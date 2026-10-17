@@ -1,10 +1,10 @@
 {
-  "version": "1.7.65",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.65/account_checker-v1.7.65.exe",
-  "notes": "检测器更新 v1.7.65：1. 修复部分跨域人机验证漏识别、一直标为待复核的问题。2. 补齐账号选择页结构识别和登录前切中文，减少非中文页面卡住。3. 保持图片验证码F类、跨域验证待人工的区分，修正后续登录分支的分类。保留原名称主体、IP、密码和历史记录，请通过检查更新升级。",
-  "sha256": "71e3a5a866d0b7abe58831f3453b2583fdf18f41ebc6044aa196f08ae3603403",
-  "size_bytes": 34106120,
-  "source_commit": "b3244493a94e52ce85c7f8d254446fadd4df514d",
-  "source_fingerprint": "474aab63737d149a389d8375a77d5d758a248c45481f6f0077640e4bd15ec4ce",
-  "acceptance_sha256": "45160a007fafa77925f7fe7e4775342a33251e0338f7fc4f7e57f874cc5b0bcd"
+  "version": "1.7.66",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.66/account_checker-v1.7.66.exe",
+  "notes": "检测器更新 v1.7.66\n1. 修复部分窗口回写后仍打开旧验证页面的问题。\n2. 避免验证异常时反复重登，网络重试不会重复提交密码。\n3. 登录失败、验证过期和登录未完成会分清原因，不再误显示重登成功。\n",
+  "sha256": "8d9bb1081972475ffead3080163f8a9267451dd036d66adaa02fceeccf155cca",
+  "size_bytes": 34109809,
+  "source_commit": "dd2cfcefbde31f8ac711587c81083d04d0ef5f6d",
+  "source_fingerprint": "4bd139e8592b1d257f4bf687b59c4cb8067d962d7feafe66ffdfcb3bb62f6981",
+  "acceptance_sha256": "df431665cc7feb28f8940e0233d971f0cea1e9a3c6f20c7fbbdf7c866980a131"
 }
