@@ -1,10 +1,10 @@
 {
-  "version": "1.7.68",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.68/account_checker-v1.7.68.exe",
-  "notes": "检测器更新 v1.7.68\n1. 修复验证入口提前判成人机验证，展开后按实际验证码分类。\n2. 修复验证码已显示却仍被判待复核的问题。\n3. 网页报错时增加有限重试，必要时返回首页复核，不反复提交密码。",
-  "sha256": "68f3776b446dfc1484bce928e83b59a19fbd004111e447c1d48a593e3cdcfa53",
-  "size_bytes": 34116503,
-  "source_commit": "e41598a9222e53f93d878fe8019a9285bded85c9",
-  "source_fingerprint": "86c5a11344413a03203b4a6251f904976dca11b5c67900f442ab83c889677ab5",
-  "acceptance_sha256": "f12af7cc61b833c04ae6bbdc18a0d2c69a71a65bf174b68e5c9cda66968cd61a"
+  "version": "1.7.69",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.69/account_checker-v1.7.69.exe",
+  "notes": "检测器更新 v1.7.69\n1. 修复自拍视频、账号暂停等页面分类不准的问题。\n2. 修复后台空白页、短验证码页被误判待复核或反复刷新的问题。\n3. 补齐旧规则检查，更新前必须核对检测、回写和统计结果。",
+  "sha256": "90eb15e17fccaeecef400d15e45f081c5e344a7beebc18419de34d0c5f23bd02",
+  "size_bytes": 34120862,
+  "source_commit": "e9c79cea356d417f8c78b66b115c00ea3fdf296a",
+  "source_fingerprint": "60832591482e55a9e992da34fd2bbd388c15dc162adce871d177d9011551b45c",
+  "acceptance_sha256": "d464c0dcc6ed8eacfbe7d41290d0b8190193d2c3ed683aa81144c4305615d721"
 }
