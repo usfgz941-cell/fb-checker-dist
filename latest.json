@@ -1,10 +1,10 @@
 {
-  "version": "1.7.69",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.69/account_checker-v1.7.69.exe",
-  "notes": "检测器更新 v1.7.69\n1. 修复自拍视频、账号暂停等页面分类不准的问题。\n2. 修复后台空白页、短验证码页被误判待复核或反复刷新的问题。\n3. 补齐旧规则检查，更新前必须核对检测、回写和统计结果。",
-  "sha256": "90eb15e17fccaeecef400d15e45f081c5e344a7beebc18419de34d0c5f23bd02",
-  "size_bytes": 34120862,
-  "source_commit": "e9c79cea356d417f8c78b66b115c00ea3fdf296a",
-  "source_fingerprint": "60832591482e55a9e992da34fd2bbd388c15dc162adce871d177d9011551b45c",
-  "acceptance_sha256": "d464c0dcc6ed8eacfbe7d41290d0b8190193d2c3ed683aa81144c4305615d721"
+  "version": "1.7.70",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.70/account_checker-v1.7.70.exe",
+  "notes": "检测器更新 v1.7.70\n1. 修复部分已恢复正常的账号仍被标成待复核的问题。\n2. 解锁后补足确认，避免过早结束或重复提交密码。\n3. 修复部分旧窗口名的回写问题，保留原名称主体和IP。",
+  "sha256": "681597ca27eb9038882c8ebf36f4a46f671aaa2593b52e05071bbbeeecfb5fee",
+  "size_bytes": 34124146,
+  "source_commit": "ca950d42f79792afb551abf34df00a2a5aa520fb",
+  "source_fingerprint": "c6f6a778aa22110962e7098191b7788f3b97236b02a5298b2d3d97a1b9361349",
+  "acceptance_sha256": "ef2e4137b6104598be2393b67783678a887f72529372bec6adf7ec9cc5ae58df"
 }
