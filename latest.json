@@ -1,10 +1,10 @@
 {
-  "version": "1.7.70",
-  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.70/account_checker-v1.7.70.exe",
-  "notes": "检测器更新 v1.7.70\n1. 修复部分已恢复正常的账号仍被标成待复核的问题。\n2. 解锁后补足确认，避免过早结束或重复提交密码。\n3. 修复部分旧窗口名的回写问题，保留原名称主体和IP。",
-  "sha256": "681597ca27eb9038882c8ebf36f4a46f671aaa2593b52e05071bbbeeecfb5fee",
-  "size_bytes": 34124146,
-  "source_commit": "ca950d42f79792afb551abf34df00a2a5aa520fb",
-  "source_fingerprint": "c6f6a778aa22110962e7098191b7788f3b97236b02a5298b2d3d97a1b9361349",
-  "acceptance_sha256": "ef2e4137b6104598be2393b67783678a887f72529372bec6adf7ec9cc5ae58df"
+  "version": "1.7.71",
+  "url": "https://github.com/usfgz941-cell/fb-checker-dist/releases/download/v1.7.71/account_checker-v1.7.71.exe",
+  "notes": "新增工作台IP更新：按确认的窗口更新代理认证或同国换IP，回读、连通和回执分别核对；运行中及受保护窗口暂缓，已一致不重复修改。完整代理点击即可复制。",
+  "sha256": "6396dde88a04f52184d0b85ee3b2915f3a4023803f47b67e70c43f0a9de46fae",
+  "size_bytes": 34144512,
+  "source_commit": "e820c8823ae5325b15066416d46ca6be6f376353",
+  "source_fingerprint": "1c6198f336222049de550cb7d378bb87ef66657a6070ecd54f00b58313f3ba07",
+  "acceptance_sha256": "84e7e98f3499ff52041d58824e8238176b6db9a2fe6a3e642dcc2fbb8dde5f4f"
 }
